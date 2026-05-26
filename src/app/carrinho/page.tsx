@@ -13,7 +13,7 @@ export default function CartPage() {
   const { items, removeItem, updateQuantity, total, subtotal, count, combo } = useCart();
 
   // O `total` do contexto já vem com o combo aplicado.
-  const shipping   = total >= 0 ? 0 : 19.9;
+  const shipping   = total >= 119.99 ? 0 : 19.9;
   const finalTotal = total + shipping;
 
   if (items.length === 0) {

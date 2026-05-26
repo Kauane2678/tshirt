@@ -67,7 +67,7 @@ export default function Footer() {
       <div className="border-b border-background/10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 py-8 grid grid-cols-2 md:grid-cols-4 gap-6">
           {[
-            { icon: Truck,       title: "Frete Grátis",      sub: "Acima de R$ 119,97" },
+            { icon: Truck,       title: "Frete Grátis",      sub: "Acima de R$ 119,99" },
             { icon: RotateCcw,   title: "30 Dias para Trocar", sub: "Devolução grátis" },
             { icon: ShieldCheck, title: "Compra Segura",     sub: "SSL 256-bit" },
             { icon: Lock,        title: "Pagamento Seguro",  sub: "PIX, Cartão, Boleto" },

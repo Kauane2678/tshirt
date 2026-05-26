@@ -482,7 +482,7 @@ export default function CheckoutPage() {
 
   // total = subtotal − combo.discount  (já vem do CartContext)
   const discount   = combo.discount;
-  const shipping   = total >= 0 ? 0 : 19.9;
+  const shipping   = total >= 119.99 ? 0 : 19.9;
   const finalTotal = total + shipping;
 
   async function fetchCep(zip: string) {
