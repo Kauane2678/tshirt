@@ -310,13 +310,34 @@ function OrderSidebar({
 
 /* ─── PIX screen ─────────────────────────────────────────── */
 function PixScreen({ code, orderId, base64, image, onNewPurchase }: { code: string; orderId: string; base64?: string; image?: string; onNewPurchase: () => void }) {
+  const router = useRouter();
   const [copied, setCopied] = useState(false);
   const [seconds, setSeconds] = useState(900);
+  const [paid, setPaid] = useState(false);
 
+  // Countdown
   useEffect(() => {
     const t = setInterval(() => setSeconds(s => Math.max(0, s - 1)), 1000);
     return () => clearInterval(t);
   }, []);
+
+  // Polling — verifica pagamento a cada 5s
+  useEffect(() => {
+    if (!orderId || paid) return;
+    const interval = setInterval(async () => {
+      try {
+        const res = await fetch(`/api/payment/status?orderId=${orderId}`);
+        const data = await res.json();
+        if (data?.status === "PAID") {
+          setPaid(true);
+          clearInterval(interval);
+          sessionStorage.removeItem("style-shooes-pix");
+          router.push(`/pedido-confirmado?id=${orderId}&method=pix`);
+        }
+      } catch {}
+    }, 5000);
+    return () => clearInterval(interval);
+  }, [orderId, paid, router]);
 
   const mm = String(Math.floor(seconds / 60)).padStart(2, "0");
   const ss = String(seconds % 60).padStart(2, "0");
@@ -333,7 +354,7 @@ function PixScreen({ code, orderId, base64, image, onNewPurchase }: { code: stri
       <div className="text-center">
         <div className="inline-flex items-center gap-2 bg-green-100 text-green-700 rounded-full px-4 py-1.5 text-xs font-bold mb-4">
           <div className="size-2 rounded-full bg-green-500 animate-pulse"/>
-          Aguardando pagamento
+          {paid ? "Pagamento confirmado! Redirecionando..." : "Aguardando pagamento · verificando automaticamente"}
         </div>
         <h1 className="font-display text-5xl tracking-wider text-foreground mb-2">PAGUE COM PIX</h1>
         <p className="text-sm text-muted-foreground">Escaneie o QR Code ou copie o código abaixo</p>
