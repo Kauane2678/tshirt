@@ -1,4 +1,13 @@
 {
+  "/ROUPAS/Brasil/22_23 Brasil Home.jpg": {
+    "name": "🧪 PRODUTO TESTE — R$1",
+    "price": 1.00,
+    "badge": "Teste",
+    "description": "Produto de teste — remover após validar pagamento.",
+    "rating": 5.0,
+    "reviews": 1,
+    "soldCount": 1
+  },
   "/ROUPAS/Brasil/2024 Brasil Home.jpg": {
     "name": "Camisa Brasil Home 2024 — Tailandesa",
     "price": 80.00,

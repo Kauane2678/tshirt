@@ -65,7 +65,7 @@ export default function RootLayout({
             <Header />
             <main className="flex-1">{children}</main>
             <Footer />
-            <WhatsAppButton />
+            {/* <WhatsAppButton /> */}
             <Toaster position="bottom-right" richColors />
           </CartProvider>
         </TooltipProvider>

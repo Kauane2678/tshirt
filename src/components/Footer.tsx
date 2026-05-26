@@ -179,7 +179,7 @@ export default function Footer() {
 
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-background/30">
           <p>
-            © {new Date().getFullYear()} Style Shooes · CNPJ XX.XXX.XXX/0001-XX · Todos os direitos reservados
+            © {new Date().getFullYear()} Style Shooes · Todos os direitos reservados
           </p>
           <p className="text-background/40">
             Site seguro com <strong className="text-background/70">criptografia SSL</strong>
