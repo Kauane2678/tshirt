@@ -29,6 +29,20 @@ const benefits = [
 export default function Home() {
   return (
     <div>
+      {/* ── BANNER PROMOÇÃO ──────────────────────────── */}
+      <section aria-label="Banner promoção Seleção de Ofertas" className="w-full">
+        <Link href="/produtos?badge=Promoção">
+          <Image
+            src="/Banner.png"
+            alt="Seleção de Ofertas - 3 camisas por R$129,90"
+            width={1920}
+            height={400}
+            className="w-full h-auto object-cover cursor-pointer"
+            priority
+          />
+        </Link>
+      </section>
+
       {/* ── HERO ─────────────────────────────────────── */}
       <section className="relative overflow-hidden bg-gradient-to-br from-primary via-primary to-blue-900 min-h-[92vh] flex items-center">
         {/* Background — radial glow */}
@@ -247,22 +261,6 @@ export default function Home() {
             </div>
           ))}
         </div>
-      </section>
-
-      {/* ── BANNER PROMOÇÃO ──────────────────────────── */}
-      <section aria-label="Banner promoção Seleção de Ofertas" className="max-w-7xl mx-auto px-4 sm:px-6 py-6">
-        <Link href="/produtos?badge=Promoção">
-          <div className="relative w-full rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300 cursor-pointer">
-            <Image
-              src="/Banner.png"
-              alt="Seleção de Ofertas - 3 camisas por R$129,90"
-              width={1200}
-              height={300}
-              className="w-full h-auto object-cover"
-              priority
-            />
-          </div>
-        </Link>
       </section>
 
       {/* ── DESTAQUES ────────────────────────────────── */}
