@@ -291,11 +291,10 @@ export default function Home() {
       <section aria-label="Seleção de Ofertas" className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
         <Link href="/produtos?badge=Promoção" className="block group">
           <div className="relative overflow-hidden rounded-3xl shadow-2xl shadow-black/20 group-hover:shadow-black/30 transition-shadow duration-300">
-            <Image
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
               src="/Banner.jpeg"
               alt="Seleção de Ofertas - 3 camisas por R$129,90"
-              width={1920}
-              height={480}
               className="w-full h-auto object-cover group-hover:scale-[1.02] transition-transform duration-500"
             />
             <div className="absolute inset-0 bg-gradient-to-r from-black/10 to-transparent pointer-events-none" />
