@@ -1,7 +1,7 @@
 // ⚠️  ARQUIVO GERADO AUTOMATICAMENTE — não edite manualmente
 // Execute: npm run sync-products para atualizar
 // Para customizar preços/descrições, edite: src/lib/products-overrides.json
-// Gerado em: 07/05/2026, 19:44:48 · 164 produtos · 1 duplicatas agrupadas
+// Gerado em: 26/05/2026, 15:59:31 · 164 produtos · 1 duplicatas agrupadas
 
 import type { Product } from "./data";
 
@@ -10,183 +10,9 @@ export const catalogProducts: Product[] = [
     "id": 1,
     "name": "Camisa Alemanha",
     "price": 80,
-    "image": "/ROUPAS/Alemanha/0fa9570b.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/0fa9570b.jpg",
     "images": [
-      "/ROUPAS/Alemanha/0fa9570b.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Alemanha",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Alemanha — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.6,
-    "reviews": 202,
-    "soldCount": 775
-  },
-  {
-    "id": 2,
-    "name": "Camisa Alemanha",
-    "price": 80,
-    "image": "/ROUPAS/Alemanha/1b07a787.jpg",
-    "images": [
-      "/ROUPAS/Alemanha/1b07a787.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Alemanha",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Alemanha — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.7,
-    "reviews": 223,
-    "soldCount": 1633
-  },
-  {
-    "id": 3,
-    "name": "Camisa 2022 Germany World Cup Shirt away",
-    "price": 80,
-    "image": "/ROUPAS/Alemanha/2022 Germany World Cup Shirt away.jpg",
-    "images": [
-      "/ROUPAS/Alemanha/2022 Germany World Cup Shirt away.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Alemanha",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa 2022 Germany World Cup Shirt away — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.7,
-    "reviews": 123,
-    "soldCount": 1718
-  },
-  {
-    "id": 4,
-    "name": "Camisa 22.23 German vintage sweater version",
-    "price": 80,
-    "image": "/ROUPAS/Alemanha/22.23 German vintage sweater version.jpg",
-    "images": [
-      "/ROUPAS/Alemanha/22.23 German vintage sweater version.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Alemanha",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa 22.23 German vintage sweater version — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.7,
-    "reviews": 156,
-    "soldCount": 1281
-  },
-  {
-    "id": 5,
-    "name": "Camisa Alemanha",
-    "price": 80,
-    "image": "/ROUPAS/Alemanha/3da31ee1.jpg",
-    "images": [
-      "/ROUPAS/Alemanha/3da31ee1.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Alemanha",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Alemanha — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 5,
-    "reviews": 182,
-    "soldCount": 975
-  },
-  {
-    "id": 6,
-    "name": "Camisa Alemanha",
-    "price": 80,
-    "image": "/ROUPAS/Alemanha/3e8704fa.jpg",
-    "images": [
-      "/ROUPAS/Alemanha/3e8704fa.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Alemanha",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Alemanha — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.8,
-    "reviews": 247,
-    "soldCount": 828
-  },
-  {
-    "id": 7,
-    "name": "Camisa Alemanha",
-    "price": 80,
-    "image": "/ROUPAS/Alemanha/442653d2.jpg",
-    "images": [
-      "/ROUPAS/Alemanha/442653d2.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/0fa9570b.jpg"
     ],
     "category": "Camisas",
     "team": "Alemanha",
@@ -206,16 +32,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.5,
-    "reviews": 132,
-    "soldCount": 235
+    "reviews": 242,
+    "soldCount": 1917
   },
   {
-    "id": 8,
+    "id": 2,
     "name": "Camisa Alemanha",
     "price": 80,
-    "image": "/ROUPAS/Alemanha/4e2d8bab.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/1b07a787.jpg",
     "images": [
-      "/ROUPAS/Alemanha/4e2d8bab.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/1b07a787.jpg"
     ],
     "category": "Camisas",
     "team": "Alemanha",
@@ -234,17 +60,75 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 170,
-    "soldCount": 484
+    "rating": 4.5,
+    "reviews": 113,
+    "soldCount": 1586
   },
   {
-    "id": 9,
+    "id": 3,
+    "name": "Camisa 2022 Germany World Cup Shirt away",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/2022_Germany_World_Cup_Shirt_away.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/2022_Germany_World_Cup_Shirt_away.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Alemanha",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa 2022 Germany World Cup Shirt away — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.7,
+    "reviews": 73,
+    "soldCount": 249
+  },
+  {
+    "id": 4,
+    "name": "Camisa 22.23 German vintage sweater version",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/22.23_German_vintage_sweater_version.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/22.23_German_vintage_sweater_version.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Alemanha",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa 22.23 German vintage sweater version — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.6,
+    "reviews": 157,
+    "soldCount": 1932
+  },
+  {
+    "id": 5,
     "name": "Camisa Alemanha",
     "price": 80,
-    "image": "/ROUPAS/Alemanha/532e0938.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/3da31ee1.jpg",
     "images": [
-      "/ROUPAS/Alemanha/532e0938.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/3da31ee1.jpg"
     ],
     "category": "Camisas",
     "team": "Alemanha",
@@ -263,17 +147,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 328,
-    "soldCount": 933
+    "rating": 4.6,
+    "reviews": 141,
+    "soldCount": 1335
   },
   {
-    "id": 10,
+    "id": 6,
     "name": "Camisa Alemanha",
     "price": 80,
-    "image": "/ROUPAS/Alemanha/546af60f.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/3e8704fa.jpg",
     "images": [
-      "/ROUPAS/Alemanha/546af60f.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/3e8704fa.jpg"
     ],
     "category": "Camisas",
     "team": "Alemanha",
@@ -293,16 +177,74 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.7,
-    "reviews": 114,
-    "soldCount": 1628
+    "reviews": 332,
+    "soldCount": 1342
   },
   {
-    "id": 11,
+    "id": 7,
     "name": "Camisa Alemanha",
     "price": 80,
-    "image": "/ROUPAS/Alemanha/584d62c0.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/442653d2.jpg",
     "images": [
-      "/ROUPAS/Alemanha/584d62c0.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/442653d2.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Alemanha",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Alemanha — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.8,
+    "reviews": 131,
+    "soldCount": 1657
+  },
+  {
+    "id": 8,
+    "name": "Camisa Alemanha",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/4e2d8bab.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/4e2d8bab.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Alemanha",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Alemanha — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.7,
+    "reviews": 267,
+    "soldCount": 771
+  },
+  {
+    "id": 9,
+    "name": "Camisa Alemanha",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/532e0938.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/532e0938.jpg"
     ],
     "category": "Camisas",
     "team": "Alemanha",
@@ -323,15 +265,73 @@ export const catalogProducts: Product[] = [
     ],
     "rating": 4.9,
     "reviews": 99,
-    "soldCount": 1098
+    "soldCount": 1813
+  },
+  {
+    "id": 10,
+    "name": "Camisa Alemanha",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/546af60f.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/546af60f.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Alemanha",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Alemanha — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.5,
+    "reviews": 173,
+    "soldCount": 575
+  },
+  {
+    "id": 11,
+    "name": "Camisa Alemanha",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/584d62c0.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/584d62c0.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Alemanha",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Alemanha — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.6,
+    "reviews": 99,
+    "soldCount": 989
   },
   {
     "id": 12,
     "name": "Camisa Alemanha",
     "price": 80,
-    "image": "/ROUPAS/Alemanha/821d413e.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/821d413e.jpg",
     "images": [
-      "/ROUPAS/Alemanha/821d413e.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/821d413e.jpg"
     ],
     "category": "Camisas",
     "team": "Alemanha",
@@ -352,15 +352,102 @@ export const catalogProducts: Product[] = [
     ],
     "rating": 4.9,
     "reviews": 56,
-    "soldCount": 814
+    "soldCount": 1862
   },
   {
     "id": 13,
     "name": "Camisa Alemanha",
     "price": 80,
-    "image": "/ROUPAS/Alemanha/a13b4cde.png",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/a13b4cde.png",
     "images": [
-      "/ROUPAS/Alemanha/a13b4cde.png"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/a13b4cde.png"
+    ],
+    "category": "Camisas",
+    "team": "Alemanha",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Alemanha — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.5,
+    "reviews": 242,
+    "soldCount": 1308
+  },
+  {
+    "id": 14,
+    "name": "Camisa Alemanha",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/b2f609be.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/b2f609be.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Alemanha",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Alemanha — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.7,
+    "reviews": 343,
+    "soldCount": 1054
+  },
+  {
+    "id": 15,
+    "name": "Camisa Alemanha",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/c24b63ed.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/c24b63ed.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Alemanha",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Alemanha — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.7,
+    "reviews": 162,
+    "soldCount": 765
+  },
+  {
+    "id": 16,
+    "name": "Camisa Alemanha",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/d198c28f.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/d198c28f.jpg"
     ],
     "category": "Camisas",
     "team": "Alemanha",
@@ -380,45 +467,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.6,
-    "reviews": 346,
-    "soldCount": 1392
+    "reviews": 173,
+    "soldCount": 616
   },
   {
-    "id": 14,
+    "id": 17,
     "name": "Camisa Alemanha",
     "price": 80,
-    "image": "/ROUPAS/Alemanha/b2f609be.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/e12627f8.jpg",
     "images": [
-      "/ROUPAS/Alemanha/b2f609be.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Alemanha",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Alemanha — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.7,
-    "reviews": 193,
-    "soldCount": 145
-  },
-  {
-    "id": 15,
-    "name": "Camisa Alemanha",
-    "price": 80,
-    "image": "/ROUPAS/Alemanha/c24b63ed.jpg",
-    "images": [
-      "/ROUPAS/Alemanha/c24b63ed.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/e12627f8.jpg"
     ],
     "category": "Camisas",
     "team": "Alemanha",
@@ -438,45 +496,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.8,
-    "reviews": 227,
-    "soldCount": 668
+    "reviews": 216,
+    "soldCount": 1175
   },
   {
-    "id": 16,
+    "id": 18,
     "name": "Camisa Alemanha",
     "price": 80,
-    "image": "/ROUPAS/Alemanha/d198c28f.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/f8d518bb.png",
     "images": [
-      "/ROUPAS/Alemanha/d198c28f.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Alemanha",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Alemanha — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.7,
-    "reviews": 143,
-    "soldCount": 550
-  },
-  {
-    "id": 17,
-    "name": "Camisa Alemanha",
-    "price": 80,
-    "image": "/ROUPAS/Alemanha/e12627f8.jpg",
-    "images": [
-      "/ROUPAS/Alemanha/e12627f8.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Alemanha/f8d518bb.png"
     ],
     "category": "Camisas",
     "team": "Alemanha",
@@ -496,45 +525,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.9,
-    "reviews": 120,
-    "soldCount": 732
-  },
-  {
-    "id": 18,
-    "name": "Camisa Alemanha",
-    "price": 80,
-    "image": "/ROUPAS/Alemanha/f8d518bb.png",
-    "images": [
-      "/ROUPAS/Alemanha/f8d518bb.png"
-    ],
-    "category": "Camisas",
-    "team": "Alemanha",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Alemanha — versão tailandesa da seleção de Alemanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.7,
-    "reviews": 275,
-    "soldCount": 1241
+    "reviews": 104,
+    "soldCount": 1896
   },
   {
     "id": 19,
     "name": "Camisa Argentina",
     "price": 80,
-    "image": "/ROUPAS/Argentina/00255780.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/00255780.jpg",
     "images": [
-      "/ROUPAS/Argentina/00255780.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/00255780.jpg"
     ],
     "category": "Camisas",
     "team": "Argentina",
@@ -553,17 +553,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 204,
-    "soldCount": 2062
+    "rating": 4.8,
+    "reviews": 227,
+    "soldCount": 847
   },
   {
     "id": 20,
     "name": "Camisa 01 SOMENTE PATCH CAMPEÃO 3 ESTRELAS FAN",
     "price": 80,
-    "image": "/ROUPAS/Argentina/01 - SOMENTE PATCH CAMPEÃO - 3 ESTRELAS - FAN.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/01_-_SOMENTE_PATCH_CAMPEAO_-_3_ESTRELAS_-_FAN.jpg",
     "images": [
-      "/ROUPAS/Argentina/01 - SOMENTE PATCH CAMPEÃO - 3 ESTRELAS - FAN.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/01_-_SOMENTE_PATCH_CAMPEAO_-_3_ESTRELAS_-_FAN.jpg"
     ],
     "category": "Camisas",
     "team": "Argentina",
@@ -582,17 +582,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 213,
-    "soldCount": 256
+    "rating": 4.7,
+    "reviews": 180,
+    "soldCount": 155
   },
   {
     "id": 21,
     "name": "Camisa 01 TODOS OS PATCHS 3 ESTRELAS FAN",
     "price": 80,
-    "image": "/ROUPAS/Argentina/01 - TODOS OS PATCHS - 3 ESTRELAS - FAN.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/01_-_TODOS_OS_PATCHS_-_3_ESTRELAS_-_FAN.jpg",
     "images": [
-      "/ROUPAS/Argentina/01 - TODOS OS PATCHS - 3 ESTRELAS - FAN.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/01_-_TODOS_OS_PATCHS_-_3_ESTRELAS_-_FAN.jpg"
     ],
     "category": "Camisas",
     "team": "Argentina",
@@ -611,17 +611,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 298,
-    "soldCount": 210
+    "rating": 4.6,
+    "reviews": 174,
+    "soldCount": 1256
   },
   {
     "id": 22,
     "name": "Camisa 02 SOMENTE PATCH CAMPEÃO 3 ESTRELAS FAN II",
     "price": 80,
-    "image": "/ROUPAS/Argentina/02 - SOMENTE PATCH CAMPEÃO - 3 ESTRELAS - FAN II.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/02_-_SOMENTE_PATCH_CAMPEAO_-_3_ESTRELAS_-_FAN_II.jpg",
     "images": [
-      "/ROUPAS/Argentina/02 - SOMENTE PATCH CAMPEÃO - 3 ESTRELAS - FAN II.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/02_-_SOMENTE_PATCH_CAMPEAO_-_3_ESTRELAS_-_FAN_II.jpg"
     ],
     "category": "Camisas",
     "team": "Argentina",
@@ -640,17 +640,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 160,
-    "soldCount": 1736
+    "rating": 5,
+    "reviews": 346,
+    "soldCount": 2086
   },
   {
     "id": 23,
     "name": "Camisa 02 TODOS OS PATCHS 3 ESTRELAS FAN II",
     "price": 80,
-    "image": "/ROUPAS/Argentina/02 - TODOS OS PATCHS - 3 ESTRELAS - FAN II.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/02_-_TODOS_OS_PATCHS_-_3_ESTRELAS_-_FAN_II.jpg",
     "images": [
-      "/ROUPAS/Argentina/02 - TODOS OS PATCHS - 3 ESTRELAS - FAN II.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/02_-_TODOS_OS_PATCHS_-_3_ESTRELAS_-_FAN_II.jpg"
     ],
     "category": "Camisas",
     "team": "Argentina",
@@ -669,17 +669,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 281,
-    "soldCount": 1140
+    "rating": 4.7,
+    "reviews": 171,
+    "soldCount": 1188
   },
   {
     "id": 24,
     "name": "Camisa 22 23 Argentina grass green goalkeeper",
     "price": 80,
-    "image": "/ROUPAS/Argentina/22-23 Argentina grass green goalkeeper.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/22-23_Argentina_grass_green_goalkeeper.jpg",
     "images": [
-      "/ROUPAS/Argentina/22-23 Argentina grass green goalkeeper.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/22-23_Argentina_grass_green_goalkeeper.jpg"
     ],
     "category": "Camisas",
     "team": "Argentina",
@@ -699,17 +699,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 96,
-    "soldCount": 396
+    "rating": 4.5,
+    "reviews": 293,
+    "soldCount": 1084
   },
   {
     "id": 25,
     "name": "Camisa 22 23 Argentina red goalkeeper",
     "price": 80,
-    "image": "/ROUPAS/Argentina/22-23 Argentina red goalkeeper.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/22-23_Argentina_red_goalkeeper.jpg",
     "images": [
-      "/ROUPAS/Argentina/22-23 Argentina red goalkeeper.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/22-23_Argentina_red_goalkeeper.jpg"
     ],
     "category": "Camisas",
     "team": "Argentina",
@@ -729,17 +729,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 347,
-    "soldCount": 977
+    "rating": 4.8,
+    "reviews": 328,
+    "soldCount": 804
   },
   {
     "id": 26,
     "name": "Camisa 23 24 Argentina training II",
     "price": 80,
-    "image": "/ROUPAS/Argentina/23-24 Argentina training II.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/23-24_Argentina_training_II.jpg",
     "images": [
-      "/ROUPAS/Argentina/23-24 Argentina training II.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/23-24_Argentina_training_II.jpg"
     ],
     "category": "Camisas",
     "team": "Argentina",
@@ -759,17 +759,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 61,
-    "soldCount": 482
+    "rating": 4.7,
+    "reviews": 253,
+    "soldCount": 587
   },
   {
     "id": 27,
     "name": "Camisa 23 24 Argentina training",
     "price": 80,
-    "image": "/ROUPAS/Argentina/23-24 Argentina training.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/23-24_Argentina_training.jpg",
     "images": [
-      "/ROUPAS/Argentina/23-24 Argentina training.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/23-24_Argentina_training.jpg"
     ],
     "category": "Camisas",
     "team": "Argentina",
@@ -789,17 +789,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 5,
-    "reviews": 273,
-    "soldCount": 1198
+    "rating": 4.5,
+    "reviews": 313,
+    "soldCount": 412
   },
   {
     "id": 28,
     "name": "Camisa 23 24 Argentina",
     "price": 80,
-    "image": "/ROUPAS/Argentina/23-24 Argentina.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/23-24_Argentina.jpg",
     "images": [
-      "/ROUPAS/Argentina/23-24 Argentina.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/23-24_Argentina.jpg"
     ],
     "category": "Camisas",
     "team": "Argentina",
@@ -819,16 +819,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.6,
-    "reviews": 216,
-    "soldCount": 941
+    "reviews": 208,
+    "soldCount": 1840
   },
   {
     "id": 29,
     "name": "Camisa 23 24 Argentine Black Long Sleeve",
     "price": 80,
-    "image": "/ROUPAS/Argentina/23-24 Argentine Black Long Sleeve.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/23-24_Argentine_Black_Long_Sleeve.jpg",
     "images": [
-      "/ROUPAS/Argentina/23-24 Argentine Black Long Sleeve.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/23-24_Argentine_Black_Long_Sleeve.jpg"
     ],
     "category": "Camisas",
     "team": "Argentina",
@@ -847,17 +847,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 137,
-    "soldCount": 1367
+    "rating": 4.5,
+    "reviews": 58,
+    "soldCount": 1105
   },
   {
     "id": 30,
     "name": "Camisa 24 25 Argentina away",
     "price": 80,
-    "image": "/ROUPAS/Argentina/24_25 Argentina away.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/24_25_Argentina_away.jpg",
     "images": [
-      "/ROUPAS/Argentina/24_25 Argentina away.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/24_25_Argentina_away.jpg"
     ],
     "category": "Camisas",
     "team": "Argentina",
@@ -876,17 +876,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 66,
-    "soldCount": 986
+    "rating": 4.6,
+    "reviews": 319,
+    "soldCount": 463
   },
   {
     "id": 31,
     "name": "Camisa 24 25 Argentina home",
     "price": 80,
-    "image": "/ROUPAS/Argentina/24_25 Argentina home.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/24_25_Argentina_home.jpg",
     "images": [
-      "/ROUPAS/Argentina/24_25 Argentina home.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/24_25_Argentina_home.jpg"
     ],
     "category": "Camisas",
     "team": "Argentina",
@@ -905,249 +905,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 316,
-    "soldCount": 364
+    "rating": 4.6,
+    "reviews": 135,
+    "soldCount": 584
   },
   {
     "id": 32,
     "name": "Camisa Argentina",
     "price": 80,
-    "image": "/ROUPAS/Argentina/27f4f81c.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/27f4f81c.jpg",
     "images": [
-      "/ROUPAS/Argentina/27f4f81c.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Argentina",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Argentina — versão tailandesa da seleção de Argentina. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.8,
-    "reviews": 72,
-    "soldCount": 1112
-  },
-  {
-    "id": 33,
-    "name": "Camisa Argentina",
-    "price": 80,
-    "image": "/ROUPAS/Argentina/31585fcd.jpg",
-    "images": [
-      "/ROUPAS/Argentina/31585fcd.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Argentina",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Argentina — versão tailandesa da seleção de Argentina. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.5,
-    "reviews": 247,
-    "soldCount": 1834
-  },
-  {
-    "id": 34,
-    "name": "Camisa Argentina",
-    "price": 80,
-    "image": "/ROUPAS/Argentina/55583698.jpg",
-    "images": [
-      "/ROUPAS/Argentina/55583698.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Argentina",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Argentina — versão tailandesa da seleção de Argentina. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.5,
-    "reviews": 99,
-    "soldCount": 1121
-  },
-  {
-    "id": 35,
-    "name": "Camisa Argentina",
-    "price": 80,
-    "image": "/ROUPAS/Argentina/7865F7ACE71BED5E7B4D9DD5BBD32815.jpg",
-    "images": [
-      "/ROUPAS/Argentina/7865F7ACE71BED5E7B4D9DD5BBD32815.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Argentina",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Argentina — versão tailandesa da seleção de Argentina. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.8,
-    "reviews": 191,
-    "soldCount": 950
-  },
-  {
-    "id": 36,
-    "name": "Camisa Argentina",
-    "price": 80,
-    "image": "/ROUPAS/Argentina/8e1c869a.jpg",
-    "images": [
-      "/ROUPAS/Argentina/8e1c869a.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Argentina",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Argentina — versão tailandesa da seleção de Argentina. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.7,
-    "reviews": 295,
-    "soldCount": 1285
-  },
-  {
-    "id": 37,
-    "name": "Camisa Argentina",
-    "price": 80,
-    "image": "/ROUPAS/Argentina/c4a4f2bb.jpg",
-    "images": [
-      "/ROUPAS/Argentina/c4a4f2bb.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Argentina",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Argentina — versão tailandesa da seleção de Argentina. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.7,
-    "reviews": 133,
-    "soldCount": 228
-  },
-  {
-    "id": 38,
-    "name": "Camisa Argentina",
-    "price": 80,
-    "image": "/ROUPAS/Argentina/d35af4c1.jpg",
-    "images": [
-      "/ROUPAS/Argentina/d35af4c1.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Argentina",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Argentina — versão tailandesa da seleção de Argentina. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.8,
-    "reviews": 236,
-    "soldCount": 1512
-  },
-  {
-    "id": 39,
-    "name": "Camisa Argentina",
-    "price": 80,
-    "image": "/ROUPAS/Argentina/e16ea11e.jpg",
-    "images": [
-      "/ROUPAS/Argentina/e16ea11e.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Argentina",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Argentina — versão tailandesa da seleção de Argentina. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.7,
-    "reviews": 98,
-    "soldCount": 1566
-  },
-  {
-    "id": 40,
-    "name": "Camisa Argentina",
-    "price": 80,
-    "image": "/ROUPAS/Argentina/f7a05b3d.jpg",
-    "images": [
-      "/ROUPAS/Argentina/f7a05b3d.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/27f4f81c.jpg"
     ],
     "category": "Camisas",
     "team": "Argentina",
@@ -1167,16 +935,161 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.6,
-    "reviews": 299,
-    "soldCount": 958
+    "reviews": 195,
+    "soldCount": 1116
   },
   {
-    "id": 41,
+    "id": 33,
     "name": "Camisa Argentina",
     "price": 80,
-    "image": "/ROUPAS/Argentina/fd567e7b.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/31585fcd.jpg",
     "images": [
-      "/ROUPAS/Argentina/fd567e7b.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/31585fcd.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Argentina",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Argentina — versão tailandesa da seleção de Argentina. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.7,
+    "reviews": 188,
+    "soldCount": 590
+  },
+  {
+    "id": 34,
+    "name": "Camisa Argentina",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/55583698.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/55583698.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Argentina",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Argentina — versão tailandesa da seleção de Argentina. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.9,
+    "reviews": 335,
+    "soldCount": 824
+  },
+  {
+    "id": 35,
+    "name": "Camisa Argentina",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/7865F7ACE71BED5E7B4D9DD5BBD32815.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/7865F7ACE71BED5E7B4D9DD5BBD32815.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Argentina",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Argentina — versão tailandesa da seleção de Argentina. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.6,
+    "reviews": 59,
+    "soldCount": 1371
+  },
+  {
+    "id": 36,
+    "name": "Camisa Argentina",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/8e1c869a.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/8e1c869a.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Argentina",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Argentina — versão tailandesa da seleção de Argentina. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.8,
+    "reviews": 160,
+    "soldCount": 1865
+  },
+  {
+    "id": 37,
+    "name": "Camisa Argentina",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/c4a4f2bb.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/c4a4f2bb.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Argentina",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Argentina — versão tailandesa da seleção de Argentina. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.8,
+    "reviews": 346,
+    "soldCount": 978
+  },
+  {
+    "id": 38,
+    "name": "Camisa Argentina",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/d35af4c1.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/d35af4c1.jpg"
     ],
     "category": "Camisas",
     "team": "Argentina",
@@ -1196,16 +1109,103 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.5,
-    "reviews": 288,
-    "soldCount": 1227
+    "reviews": 322,
+    "soldCount": 2002
+  },
+  {
+    "id": 39,
+    "name": "Camisa Argentina",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/e16ea11e.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/e16ea11e.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Argentina",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Argentina — versão tailandesa da seleção de Argentina. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.9,
+    "reviews": 133,
+    "soldCount": 1576
+  },
+  {
+    "id": 40,
+    "name": "Camisa Argentina",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/f7a05b3d.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/f7a05b3d.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Argentina",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Argentina — versão tailandesa da seleção de Argentina. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.9,
+    "reviews": 178,
+    "soldCount": 314
+  },
+  {
+    "id": 41,
+    "name": "Camisa Argentina",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/fd567e7b.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Argentina/fd567e7b.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Argentina",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Argentina — versão tailandesa da seleção de Argentina. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.5,
+    "reviews": 268,
+    "soldCount": 808
   },
   {
     "id": 42,
     "name": "Camisa Brasil",
     "price": 80,
-    "image": "/ROUPAS/Brasil/047e92f1.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/047e92f1.jpg",
     "images": [
-      "/ROUPAS/Brasil/047e92f1.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/047e92f1.jpg"
     ],
     "category": "Camisas",
     "team": "Brasil",
@@ -1224,17 +1224,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 333,
-    "soldCount": 1520
+    "rating": 4.7,
+    "reviews": 256,
+    "soldCount": 632
   },
   {
     "id": 43,
-    "name": "Camisa Brasil Home 2024 — Tailandesa",
+    "name": "Camisa 2024 Brasil Home",
     "price": 80,
-    "image": "/ROUPAS/Brasil/2024 Brasil Home.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/2024_Brasil_Home.jpg",
     "images": [
-      "/ROUPAS/Brasil/2024 Brasil Home.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/2024_Brasil_Home.jpg"
     ],
     "category": "Camisas",
     "team": "Brasil",
@@ -1246,25 +1246,25 @@ export const catalogProducts: Product[] = [
       "XGG"
     ],
     "badge": "Lançamento",
-    "description": "A nova camisa da Seleção Brasileira para a temporada 2024 em versão tailandesa premium. O design mais moderno da história do uniforme canarinho, com gola V refinada, acabamento verde e detalhes dourados no escudo. Qualidade altíssima e caimento idêntico ao modelo de campo.",
+    "description": "Camisa 2024 Brasil Home — versão tailandesa da seleção de Brasil. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
     "features": [
-      "Versão tailandesa premium com tecido de absorção de suor",
-      "Escudo CBF bordado com fio dourado",
-      "Gola V com acabamento em verde e azul",
-      "Corte moderno com costura reforçada",
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 234,
-    "soldCount": 1842
+    "rating": 4.7,
+    "reviews": 145,
+    "soldCount": 1256
   },
   {
     "id": 44,
-    "name": "Camisa Brasil Goleiro 22/23",
+    "name": "Camisa 22 23 Brazilian goalkeeper",
     "price": 80,
-    "image": "/ROUPAS/Brasil/22-23 Brazilian goalkeeper.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/22-23_Brazilian_goalkeeper.jpg",
     "images": [
-      "/ROUPAS/Brasil/22-23 Brazilian goalkeeper.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/22-23_Brazilian_goalkeeper.jpg"
     ],
     "category": "Camisas",
     "team": "Brasil",
@@ -1276,7 +1276,7 @@ export const catalogProducts: Product[] = [
       "XGG"
     ],
     "badge": "Goleiro",
-    "description": "Camisa Brasil Goleiro 22/23 — versão tailandesa da seleção de Brasil. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "description": "Camisa 22 23 Brazilian goalkeeper — versão tailandesa da seleção de Brasil. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
     "features": [
       "Versão tailandesa premium",
       "Tecido com tecnologia de absorção de suor",
@@ -1285,16 +1285,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.7,
-    "reviews": 145,
-    "soldCount": 876
+    "reviews": 297,
+    "soldCount": 704
   },
   {
     "id": 45,
-    "name": "Camisa Brasil Away 22/23 — Edição Copa",
+    "name": "Camisa 22 23 Brasil Away",
     "price": 80,
-    "image": "/ROUPAS/Brasil/22_23 Brasil Away.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/22_23_Brasil_Away.jpg",
     "images": [
-      "/ROUPAS/Brasil/22_23 Brasil Away.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/22_23_Brasil_Away.jpg"
     ],
     "category": "Camisas",
     "team": "Brasil",
@@ -1305,38 +1305,7 @@ export const catalogProducts: Product[] = [
       "GG",
       "XGG"
     ],
-    "badge": "Promoção",
-    "description": "Versão tailandesa da camisa reserva mais comentada da Copa do Mundo do Qatar 2022. O azul profundo com a incrível estampa de onça-pintada nas mangas quebrou paradigmas no design esportivo.",
-    "features": [
-      "Estampa exclusiva de onça-pintada nas mangas",
-      "Azul profundo com detalhes em amarelo e verde",
-      "Gola redonda com acabamento em verde",
-      "Colecionável da Copa do Mundo Qatar 2022",
-      "Tecido tailandês de alta qualidade"
-    ],
-    "rating": 4.9,
-    "reviews": 421,
-    "soldCount": 3891
-  },
-  {
-    "id": 46,
-    "name": "Camisa Brasil Home 22/23",
-    "price": 80,
-    "image": "/ROUPAS/Brasil/22_23 Brasil Home.jpg",
-    "images": [
-      "/ROUPAS/Brasil/22_23 Brasil Home.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Brasil",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "badge": "Promoção",
-    "description": "A camisa que o Brasil usou em campo durante a temporada 2022/23, incluindo as eliminatórias da Copa do Mundo. O amarelo vibrante com gola verde é o visual mais icônico do futebol mundial.",
+    "description": "Camisa 22 23 Brasil Away — versão tailandesa da seleção de Brasil. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
     "features": [
       "Versão tailandesa premium",
       "Tecido com tecnologia de absorção de suor",
@@ -1345,16 +1314,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.8,
-    "reviews": 312,
-    "soldCount": 2567
+    "reviews": 180,
+    "soldCount": 1084
   },
   {
-    "id": 47,
-    "name": "Camisa Brasil",
+    "id": 46,
+    "name": "Camisa 22 23 Brasil Home",
     "price": 80,
-    "image": "/ROUPAS/Brasil/27efc0ae.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/22_23_Brasil_Home.jpg",
     "images": [
-      "/ROUPAS/Brasil/27efc0ae.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/22_23_Brasil_Home.jpg"
     ],
     "category": "Camisas",
     "team": "Brasil",
@@ -1365,7 +1334,7 @@ export const catalogProducts: Product[] = [
       "GG",
       "XGG"
     ],
-    "description": "Camisa Brasil — versão tailandesa da seleção de Brasil. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "description": "Camisa 22 23 Brasil Home — versão tailandesa da seleção de Brasil. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
     "features": [
       "Versão tailandesa premium",
       "Tecido com tecnologia de absorção de suor",
@@ -1374,16 +1343,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.7,
-    "reviews": 237,
-    "soldCount": 788
+    "reviews": 133,
+    "soldCount": 1155
   },
   {
-    "id": 48,
+    "id": 47,
     "name": "Camisa Brasil",
     "price": 80,
-    "image": "/ROUPAS/Brasil/4900965b.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/27efc0ae.jpg",
     "images": [
-      "/ROUPAS/Brasil/4900965b.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/27efc0ae.jpg"
     ],
     "category": "Camisas",
     "team": "Brasil",
@@ -1403,16 +1372,45 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.6,
-    "reviews": 315,
-    "soldCount": 1968
+    "reviews": 65,
+    "soldCount": 961
+  },
+  {
+    "id": 48,
+    "name": "Camisa Brasil",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/4900965b.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/4900965b.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Brasil",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Brasil — versão tailandesa da seleção de Brasil. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.9,
+    "reviews": 320,
+    "soldCount": 965
   },
   {
     "id": 49,
     "name": "Camisa Brasil",
     "price": 80,
-    "image": "/ROUPAS/Brasil/4e88d07c.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/4e88d07c.jpg",
     "images": [
-      "/ROUPAS/Brasil/4e88d07c.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/4e88d07c.jpg"
     ],
     "category": "Camisas",
     "team": "Brasil",
@@ -1431,17 +1429,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 330,
-    "soldCount": 2018
+    "rating": 4.9,
+    "reviews": 68,
+    "soldCount": 571
   },
   {
     "id": 50,
     "name": "Camisa Brasil",
     "price": 80,
-    "image": "/ROUPAS/Brasil/5fee2feb.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/5fee2feb.jpg",
     "images": [
-      "/ROUPAS/Brasil/5fee2feb.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/5fee2feb.jpg"
     ],
     "category": "Camisas",
     "team": "Brasil",
@@ -1460,75 +1458,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 168,
-    "soldCount": 1330
+    "rating": 5,
+    "reviews": 231,
+    "soldCount": 1800
   },
   {
     "id": 51,
     "name": "Camisa Brasil",
     "price": 80,
-    "image": "/ROUPAS/Brasil/6a693a3a.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/6a693a3a.jpg",
     "images": [
-      "/ROUPAS/Brasil/6a693a3a.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Brasil",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Brasil — versão tailandesa da seleção de Brasil. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.9,
-    "reviews": 251,
-    "soldCount": 797
-  },
-  {
-    "id": 52,
-    "name": "Camisa Brasil",
-    "price": 80,
-    "image": "/ROUPAS/Brasil/74560fd4.jpg",
-    "images": [
-      "/ROUPAS/Brasil/74560fd4.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Brasil",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Brasil — versão tailandesa da seleção de Brasil. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.7,
-    "reviews": 146,
-    "soldCount": 780
-  },
-  {
-    "id": 53,
-    "name": "Camisa Brasil",
-    "price": 80,
-    "image": "/ROUPAS/Brasil/8478a2df.jpg",
-    "images": [
-      "/ROUPAS/Brasil/8478a2df.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/6a693a3a.jpg"
     ],
     "category": "Camisas",
     "team": "Brasil",
@@ -1548,16 +1488,74 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.8,
-    "reviews": 133,
-    "soldCount": 1830
+    "reviews": 197,
+    "soldCount": 1021
+  },
+  {
+    "id": 52,
+    "name": "Camisa Brasil",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/74560fd4.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/74560fd4.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Brasil",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Brasil — versão tailandesa da seleção de Brasil. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.8,
+    "reviews": 52,
+    "soldCount": 237
+  },
+  {
+    "id": 53,
+    "name": "Camisa Brasil",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/8478a2df.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/8478a2df.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Brasil",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Brasil — versão tailandesa da seleção de Brasil. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.9,
+    "reviews": 170,
+    "soldCount": 1169
   },
   {
     "id": 54,
-    "name": "Camisa Brasil Edição Especial 23/24",
+    "name": "Camisa Edição especial 23 24",
     "price": 80,
-    "image": "/ROUPAS/Brasil/Edição especial 23-24.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/Edicao_especial_23-24.jpg",
     "images": [
-      "/ROUPAS/Brasil/Edição especial 23-24.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/Edicao_especial_23-24.jpg"
     ],
     "category": "Camisas",
     "team": "Brasil",
@@ -1569,7 +1567,7 @@ export const catalogProducts: Product[] = [
       "XGG"
     ],
     "badge": "Edição Limitada",
-    "description": "Camisa Brasil Edição Especial 23/24 — versão tailandesa da seleção de Brasil. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "description": "Camisa Edição especial 23 24 — versão tailandesa da seleção de Brasil. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
     "features": [
       "Versão tailandesa premium",
       "Tecido com tecnologia de absorção de suor",
@@ -1577,17 +1575,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 112,
-    "soldCount": 534
+    "rating": 4.8,
+    "reviews": 95,
+    "soldCount": 400
   },
   {
     "id": 55,
-    "name": "Retrô Brasil 1998 Home — #9 Ronaldo",
+    "name": "Retro Brazil 1998 Home",
     "price": 80,
-    "image": "/ROUPAS/Brasil/Retro Brazil 1998 Home_.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/Retro_Brazil_1998_Home_.jpg",
     "images": [
-      "/ROUPAS/Brasil/Retro Brazil 1998 Home_.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/Retro_Brazil_1998_Home_.jpg"
     ],
     "category": "Camisas",
     "team": "Brasil",
@@ -1599,7 +1597,7 @@ export const catalogProducts: Product[] = [
       "XGG"
     ],
     "badge": "Retrô",
-    "description": "O número 9. Ronaldo. França 1998. Uma peça que vai além do futebol — é cultura, é história, é paixão.",
+    "description": "Retro Brazil 1998 Home — versão tailandesa da seleção de Brasil. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
     "features": [
       "Versão tailandesa premium",
       "Tecido com tecnologia de absorção de suor",
@@ -1608,16 +1606,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 5,
-    "reviews": 389,
-    "soldCount": 3241
+    "reviews": 109,
+    "soldCount": 1753
   },
   {
     "id": 56,
     "name": "Camisa Brasil",
     "price": 80,
-    "image": "/ROUPAS/Brasil/e81e723a.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/e81e723a.jpg",
     "images": [
-      "/ROUPAS/Brasil/e81e723a.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/e81e723a.jpg"
     ],
     "category": "Camisas",
     "team": "Brasil",
@@ -1636,17 +1634,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 261,
-    "soldCount": 970
+    "rating": 4.8,
+    "reviews": 157,
+    "soldCount": 1226
   },
   {
     "id": 57,
     "name": "Camisa Brasil",
     "price": 80,
-    "image": "/ROUPAS/Brasil/f116c486.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/f116c486.jpg",
     "images": [
-      "/ROUPAS/Brasil/f116c486.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Brasil/f116c486.jpg"
     ],
     "category": "Camisas",
     "team": "Brasil",
@@ -1665,17 +1663,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 122,
-    "soldCount": 1421
+    "rating": 5,
+    "reviews": 80,
+    "soldCount": 1578
   },
   {
     "id": 58,
     "name": "Camisa 2024 Belgium Away",
     "price": 80,
-    "image": "/ROUPAS/Bélgica_/2024 Belgium Away.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Belgica_/2024_Belgium_Away.jpg",
     "images": [
-      "/ROUPAS/Bélgica_/2024 Belgium Away.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Belgica_/2024_Belgium_Away.jpg"
     ],
     "category": "Camisas",
     "team": "Bélgica",
@@ -1696,16 +1694,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.9,
-    "reviews": 160,
-    "soldCount": 110
+    "reviews": 58,
+    "soldCount": 232
   },
   {
     "id": 59,
     "name": "Camisa 2024 25 Belgium home",
     "price": 80,
-    "image": "/ROUPAS/Bélgica_/2024_25 Belgium home.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Belgica_/2024_25_Belgium_home.jpg",
     "images": [
-      "/ROUPAS/Bélgica_/2024_25 Belgium home.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Belgica_/2024_25_Belgium_home.jpg"
     ],
     "category": "Camisas",
     "team": "Bélgica",
@@ -1725,17 +1723,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 5,
-    "reviews": 127,
-    "soldCount": 333
+    "rating": 4.6,
+    "reviews": 190,
+    "soldCount": 524
   },
   {
     "id": 60,
     "name": "Camisa 22.23 Belgium White Away",
     "price": 80,
-    "image": "/ROUPAS/Bélgica_/22.23 Belgium White Away.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Belgica_/22.23_Belgium_White_Away.jpg",
     "images": [
-      "/ROUPAS/Bélgica_/22.23 Belgium White Away.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Belgica_/22.23_Belgium_White_Away.jpg"
     ],
     "category": "Camisas",
     "team": "Bélgica",
@@ -1754,17 +1752,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 247,
-    "soldCount": 1050
+    "rating": 5,
+    "reviews": 88,
+    "soldCount": 138
   },
   {
     "id": 61,
     "name": "Camisa Bélgica",
     "price": 80,
-    "image": "/ROUPAS/Bélgica_/54673a1a.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Belgica_/54673a1a.jpg",
     "images": [
-      "/ROUPAS/Bélgica_/54673a1a.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Belgica_/54673a1a.jpg"
     ],
     "category": "Camisas",
     "team": "Bélgica",
@@ -1784,16 +1782,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 5,
-    "reviews": 232,
-    "soldCount": 441
+    "reviews": 212,
+    "soldCount": 2085
   },
   {
     "id": 62,
     "name": "Camisa Bélgica I",
     "price": 80,
-    "image": "/ROUPAS/Bélgica_/Bélgica I.jpeg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Belgica_/Belgica_I.jpeg",
     "images": [
-      "/ROUPAS/Bélgica_/Bélgica I.jpeg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Belgica_/Belgica_I.jpeg"
     ],
     "category": "Camisas",
     "team": "Bélgica",
@@ -1812,17 +1810,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 285,
-    "soldCount": 459
+    "rating": 4.9,
+    "reviews": 146,
+    "soldCount": 286
   },
   {
     "id": 63,
     "name": "Camisa Bélgica",
     "price": 80,
-    "image": "/ROUPAS/Bélgica_/f33e2209.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Belgica_/f33e2209.jpg",
     "images": [
-      "/ROUPAS/Bélgica_/f33e2209.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Belgica_/f33e2209.jpg"
     ],
     "category": "Camisas",
     "team": "Bélgica",
@@ -1842,16 +1840,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 5,
-    "reviews": 234,
-    "soldCount": 1052
+    "reviews": 281,
+    "soldCount": 786
   },
   {
     "id": 64,
     "name": "Camisa Croácia",
     "price": 80,
-    "image": "/ROUPAS/Croácia_/7c842d13.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Croacia_/7c842d13.jpg",
     "images": [
-      "/ROUPAS/Croácia_/7c842d13.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Croacia_/7c842d13.jpg"
     ],
     "category": "Camisas",
     "team": "Croácia",
@@ -1870,17 +1868,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 208,
-    "soldCount": 1435
+    "rating": 4.5,
+    "reviews": 341,
+    "soldCount": 1419
   },
   {
     "id": 65,
     "name": "Camisa Croácia",
     "price": 80,
-    "image": "/ROUPAS/Croácia_/a4682d1c.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Croacia_/a4682d1c.jpg",
     "images": [
-      "/ROUPAS/Croácia_/a4682d1c.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Croacia_/a4682d1c.jpg"
     ],
     "category": "Camisas",
     "team": "Croácia",
@@ -1899,18 +1897,18 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 59,
-    "soldCount": 1644
+    "rating": 4.8,
+    "reviews": 286,
+    "soldCount": 225
   },
   {
     "id": 66,
     "name": "Camisa 01 24 25 HOME",
     "price": 80,
-    "image": "/ROUPAS/Espanha/01- 24_25 HOME.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/01-_24_25_HOME.jpg",
     "images": [
-      "/ROUPAS/Espanha/01- 24_25 HOME.jpg",
-      "/ROUPAS/Espanha/6538ecf0.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/01-_24_25_HOME.jpg",
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/6538ecf0.jpg"
     ],
     "category": "Camisas",
     "team": "Espanha",
@@ -1929,17 +1927,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 200,
-    "soldCount": 768
+    "rating": 4.9,
+    "reviews": 245,
+    "soldCount": 710
   },
   {
     "id": 67,
     "name": "Camisa 01 AWAY 24 25",
     "price": 80,
-    "image": "/ROUPAS/Espanha/01- AWAY 24_25.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/01-_AWAY_24_25.jpg",
     "images": [
-      "/ROUPAS/Espanha/01- AWAY 24_25.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/01-_AWAY_24_25.jpg"
     ],
     "category": "Camisas",
     "team": "Espanha",
@@ -1958,17 +1956,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 325,
-    "soldCount": 1793
+    "rating": 4.9,
+    "reviews": 247,
+    "soldCount": 1527
   },
   {
     "id": 68,
     "name": "Camisa 02 GOLEIRO 24 25",
     "price": 80,
-    "image": "/ROUPAS/Espanha/02-  GOLEIRO 24_25.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/02-_GOLEIRO_24_25.jpg",
     "images": [
-      "/ROUPAS/Espanha/02-  GOLEIRO 24_25.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/02-_GOLEIRO_24_25.jpg"
     ],
     "category": "Camisas",
     "team": "Espanha",
@@ -1988,17 +1986,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 54,
-    "soldCount": 1905
+    "rating": 4.7,
+    "reviews": 271,
+    "soldCount": 402
   },
   {
     "id": 69,
     "name": "Camisa Espanha",
     "price": 80,
-    "image": "/ROUPAS/Espanha/3086bed3.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/3086bed3.jpg",
     "images": [
-      "/ROUPAS/Espanha/3086bed3.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/3086bed3.jpg"
     ],
     "category": "Camisas",
     "team": "Espanha",
@@ -2017,17 +2015,104 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 63,
-    "soldCount": 1676
+    "rating": 4.7,
+    "reviews": 285,
+    "soldCount": 1922
   },
   {
     "id": 70,
     "name": "Camisa Espanha",
     "price": 80,
-    "image": "/ROUPAS/Espanha/347044fe.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/347044fe.jpg",
     "images": [
-      "/ROUPAS/Espanha/347044fe.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/347044fe.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Espanha",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Espanha — versão tailandesa da seleção de Espanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.7,
+    "reviews": 180,
+    "soldCount": 212
+  },
+  {
+    "id": 71,
+    "name": "Camisa Espanha",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/5a3de9e0.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/5a3de9e0.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Espanha",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Espanha — versão tailandesa da seleção de Espanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.8,
+    "reviews": 193,
+    "soldCount": 1806
+  },
+  {
+    "id": 72,
+    "name": "Camisa Espanha",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/72314cf2.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/72314cf2.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Espanha",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Espanha — versão tailandesa da seleção de Espanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.7,
+    "reviews": 310,
+    "soldCount": 1473
+  },
+  {
+    "id": 73,
+    "name": "Camisa Espanha",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/8ed907fb.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/8ed907fb.jpg"
     ],
     "category": "Camisas",
     "team": "Espanha",
@@ -2048,102 +2133,15 @@ export const catalogProducts: Product[] = [
     ],
     "rating": 4.5,
     "reviews": 326,
-    "soldCount": 1873
-  },
-  {
-    "id": 71,
-    "name": "Camisa Espanha",
-    "price": 80,
-    "image": "/ROUPAS/Espanha/5a3de9e0.jpg",
-    "images": [
-      "/ROUPAS/Espanha/5a3de9e0.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Espanha",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Espanha — versão tailandesa da seleção de Espanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.8,
-    "reviews": 311,
-    "soldCount": 1689
-  },
-  {
-    "id": 72,
-    "name": "Camisa Espanha",
-    "price": 80,
-    "image": "/ROUPAS/Espanha/72314cf2.jpg",
-    "images": [
-      "/ROUPAS/Espanha/72314cf2.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Espanha",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Espanha — versão tailandesa da seleção de Espanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.6,
-    "reviews": 161,
-    "soldCount": 1365
-  },
-  {
-    "id": 73,
-    "name": "Camisa Espanha",
-    "price": 80,
-    "image": "/ROUPAS/Espanha/8ed907fb.jpg",
-    "images": [
-      "/ROUPAS/Espanha/8ed907fb.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Espanha",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Espanha — versão tailandesa da seleção de Espanha. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.8,
-    "reviews": 80,
-    "soldCount": 370
+    "soldCount": 814
   },
   {
     "id": 74,
     "name": "Camisa Espanha",
     "price": 80,
-    "image": "/ROUPAS/Espanha/a03889e9.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/a03889e9.jpg",
     "images": [
-      "/ROUPAS/Espanha/a03889e9.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/a03889e9.jpg"
     ],
     "category": "Camisas",
     "team": "Espanha",
@@ -2162,17 +2160,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 53,
-    "soldCount": 674
+    "rating": 4.7,
+    "reviews": 249,
+    "soldCount": 842
   },
   {
     "id": 75,
     "name": "Camisa Espanha",
     "price": 80,
-    "image": "/ROUPAS/Espanha/b2b0a358.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/b2b0a358.jpg",
     "images": [
-      "/ROUPAS/Espanha/b2b0a358.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/b2b0a358.jpg"
     ],
     "category": "Camisas",
     "team": "Espanha",
@@ -2191,17 +2189,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 5,
-    "reviews": 260,
-    "soldCount": 1693
+    "rating": 4.8,
+    "reviews": 303,
+    "soldCount": 1390
   },
   {
     "id": 76,
     "name": "Camisa Espanha",
     "price": 80,
-    "image": "/ROUPAS/Espanha/d8c1897a.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/d8c1897a.jpg",
     "images": [
-      "/ROUPAS/Espanha/d8c1897a.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Espanha/d8c1897a.jpg"
     ],
     "category": "Camisas",
     "team": "Espanha",
@@ -2220,17 +2218,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 50,
-    "soldCount": 199
+    "rating": 4.8,
+    "reviews": 168,
+    "soldCount": 993
   },
   {
     "id": 77,
     "name": "Camisa 2024 Goalkeeper France Yellow",
     "price": 80,
-    "image": "/ROUPAS/França_/2024 Goalkeeper France Yellow.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Franca_/2024_Goalkeeper_France_Yellow.jpg",
     "images": [
-      "/ROUPAS/França_/2024 Goalkeeper France Yellow.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Franca_/2024_Goalkeeper_France_Yellow.jpg"
     ],
     "category": "Camisas",
     "team": "França",
@@ -2250,17 +2248,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 108,
-    "soldCount": 1676
+    "rating": 4.7,
+    "reviews": 66,
+    "soldCount": 992
   },
   {
     "id": 78,
     "name": "Camisa 2024 25 Flamengo home all sponsors",
     "price": 80,
-    "image": "/ROUPAS/França_/2024_25 Flamengo home all sponsors.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Franca_/2024_25_Flamengo_home_all_sponsors.jpg",
     "images": [
-      "/ROUPAS/França_/2024_25 Flamengo home all sponsors.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Franca_/2024_25_Flamengo_home_all_sponsors.jpg"
     ],
     "category": "Camisas",
     "team": "França",
@@ -2280,17 +2278,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 320,
-    "soldCount": 1954
+    "rating": 4.5,
+    "reviews": 293,
+    "soldCount": 315
   },
   {
     "id": 79,
     "name": "Camisa 2024 25 French Training Wear Blue",
     "price": 80,
-    "image": "/ROUPAS/França_/2024_25 French Training Wear Blue.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Franca_/2024_25_French_Training_Wear_Blue.jpg",
     "images": [
-      "/ROUPAS/França_/2024_25 French Training Wear Blue.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Franca_/2024_25_French_Training_Wear_Blue.jpg"
     ],
     "category": "Camisas",
     "team": "França",
@@ -2310,17 +2308,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 160,
-    "soldCount": 1110
+    "rating": 4.6,
+    "reviews": 68,
+    "soldCount": 1484
   },
   {
     "id": 80,
     "name": "Camisa 22 23 França home",
     "price": 80,
-    "image": "/ROUPAS/França_/22-23 França home.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Franca_/22-23_Franca_home.jpg",
     "images": [
-      "/ROUPAS/França_/22-23 França home.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Franca_/22-23_Franca_home.jpg"
     ],
     "category": "Camisas",
     "team": "França",
@@ -2339,17 +2337,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 5,
-    "reviews": 144,
-    "soldCount": 791
+    "rating": 4.7,
+    "reviews": 348,
+    "soldCount": 1849
   },
   {
     "id": 81,
     "name": "Camisa 22 23 França Away",
     "price": 80,
-    "image": "/ROUPAS/França_/22_23 França Away.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Franca_/22_23_Franca_Away.jpg",
     "images": [
-      "/ROUPAS/França_/22_23 França Away.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Franca_/22_23_Franca_Away.jpg"
     ],
     "category": "Camisas",
     "team": "França",
@@ -2368,17 +2366,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 5,
-    "reviews": 60,
-    "soldCount": 1237
+    "rating": 4.9,
+    "reviews": 130,
+    "soldCount": 355
   },
   {
     "id": 82,
     "name": "Camisa 24 25 France away",
     "price": 80,
-    "image": "/ROUPAS/França_/24_25 France away_.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Franca_/24_25_France_away_.jpg",
     "images": [
-      "/ROUPAS/França_/24_25 France away_.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Franca_/24_25_France_away_.jpg"
     ],
     "category": "Camisas",
     "team": "França",
@@ -2397,17 +2395,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 235,
-    "soldCount": 231
+    "rating": 4.8,
+    "reviews": 147,
+    "soldCount": 771
   },
   {
     "id": 83,
     "name": "Camisa França",
     "price": 80,
-    "image": "/ROUPAS/França_/d439851b.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Franca_/d439851b.jpg",
     "images": [
-      "/ROUPAS/França_/d439851b.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Franca_/d439851b.jpg"
     ],
     "category": "Camisas",
     "team": "França",
@@ -2426,17 +2424,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 117,
-    "soldCount": 1428
+    "rating": 4.9,
+    "reviews": 59,
+    "soldCount": 1496
   },
   {
     "id": 84,
     "name": "Camisa 2024 England Away(1)",
     "price": 80,
-    "image": "/ROUPAS/Inglaterra/2024 England Away(1).jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/2024_England_Away_1_.jpg",
     "images": [
-      "/ROUPAS/Inglaterra/2024 England Away(1).jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/2024_England_Away_1_.jpg"
     ],
     "category": "Camisas",
     "team": "Inglaterra",
@@ -2456,17 +2454,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 111,
-    "soldCount": 1527
+    "rating": 4.7,
+    "reviews": 195,
+    "soldCount": 1289
   },
   {
     "id": 85,
     "name": "Camisa 2024 England Away",
     "price": 80,
-    "image": "/ROUPAS/Inglaterra/2024 England Away.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/2024_England_Away.jpg",
     "images": [
-      "/ROUPAS/Inglaterra/2024 England Away.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/2024_England_Away.jpg"
     ],
     "category": "Camisas",
     "team": "Inglaterra",
@@ -2486,17 +2484,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 5,
-    "reviews": 263,
-    "soldCount": 599
+    "rating": 4.8,
+    "reviews": 245,
+    "soldCount": 1465
   },
   {
     "id": 86,
     "name": "Camisa 2024 England Home",
     "price": 80,
-    "image": "/ROUPAS/Inglaterra/2024 England Home.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/2024_England_Home.jpg",
     "images": [
-      "/ROUPAS/Inglaterra/2024 England Home.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/2024_England_Home.jpg"
     ],
     "category": "Camisas",
     "team": "Inglaterra",
@@ -2516,17 +2514,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 135,
-    "soldCount": 571
+    "rating": 4.9,
+    "reviews": 187,
+    "soldCount": 377
   },
   {
     "id": 87,
     "name": "Camisa 2025 26 Women’s Euro Away",
     "price": 80,
-    "image": "/ROUPAS/Inglaterra/2025_26 Women’s Euro Away_.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/2025_26_Women_s_Euro_Away_.jpg",
     "images": [
-      "/ROUPAS/Inglaterra/2025_26 Women’s Euro Away_.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/2025_26_Women_s_Euro_Away_.jpg"
     ],
     "category": "Camisas",
     "team": "Inglaterra",
@@ -2546,17 +2544,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 136,
-    "soldCount": 1326
+    "rating": 4.7,
+    "reviews": 273,
+    "soldCount": 161
   },
   {
     "id": 88,
     "name": "Camisa 22.23 INGLATERRA",
     "price": 80,
-    "image": "/ROUPAS/Inglaterra/22.23 INGLATERRA.jpeg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/22.23_INGLATERRA.jpeg",
     "images": [
-      "/ROUPAS/Inglaterra/22.23 INGLATERRA.jpeg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/22.23_INGLATERRA.jpeg"
     ],
     "category": "Camisas",
     "team": "Inglaterra",
@@ -2576,16 +2574,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.9,
-    "reviews": 178,
-    "soldCount": 195
+    "reviews": 258,
+    "soldCount": 1164
   },
   {
     "id": 89,
     "name": "Camisa 22.23 Inglaterra Home",
     "price": 80,
-    "image": "/ROUPAS/Inglaterra/22.23 Inglaterra Home.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/22.23_Inglaterra_Home.jpg",
     "images": [
-      "/ROUPAS/Inglaterra/22.23 Inglaterra Home.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/22.23_Inglaterra_Home.jpg"
     ],
     "category": "Camisas",
     "team": "Inglaterra",
@@ -2604,17 +2602,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 113,
-    "soldCount": 1121
+    "rating": 4.8,
+    "reviews": 275,
+    "soldCount": 1975
   },
   {
     "id": 90,
     "name": "Camisa 23 24 England Special Edition",
     "price": 80,
-    "image": "/ROUPAS/Inglaterra/23_24 England Special Edition.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/23_24_England_Special_Edition.jpg",
     "images": [
-      "/ROUPAS/Inglaterra/23_24 England Special Edition.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/23_24_England_Special_Edition.jpg"
     ],
     "category": "Camisas",
     "team": "Inglaterra",
@@ -2634,16 +2632,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.7,
-    "reviews": 78,
-    "soldCount": 1635
+    "reviews": 114,
+    "soldCount": 1646
   },
   {
     "id": 91,
     "name": "Camisa 24 25 England away",
     "price": 80,
-    "image": "/ROUPAS/Inglaterra/24_25 England away.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/24_25_England_away.jpg",
     "images": [
-      "/ROUPAS/Inglaterra/24_25 England away.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/24_25_England_away.jpg"
     ],
     "category": "Camisas",
     "team": "Inglaterra",
@@ -2662,75 +2660,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 157,
-    "soldCount": 1817
+    "rating": 4.7,
+    "reviews": 243,
+    "soldCount": 1827
   },
   {
     "id": 92,
     "name": "Camisa Inglaterra",
     "price": 80,
-    "image": "/ROUPAS/Inglaterra/5c200a56.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/5c200a56.jpg",
     "images": [
-      "/ROUPAS/Inglaterra/5c200a56.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Inglaterra",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Inglaterra — versão tailandesa da seleção de Inglaterra. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.9,
-    "reviews": 188,
-    "soldCount": 1711
-  },
-  {
-    "id": 93,
-    "name": "Camisa Inglaterra",
-    "price": 80,
-    "image": "/ROUPAS/Inglaterra/69992fba.jpg",
-    "images": [
-      "/ROUPAS/Inglaterra/69992fba.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Inglaterra",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Inglaterra — versão tailandesa da seleção de Inglaterra. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.7,
-    "reviews": 286,
-    "soldCount": 1524
-  },
-  {
-    "id": 94,
-    "name": "Camisa Inglaterra",
-    "price": 80,
-    "image": "/ROUPAS/Inglaterra/e630bf7f.jpg",
-    "images": [
-      "/ROUPAS/Inglaterra/e630bf7f.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/5c200a56.jpg"
     ],
     "category": "Camisas",
     "team": "Inglaterra",
@@ -2750,16 +2690,45 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.6,
-    "reviews": 204,
-    "soldCount": 767
+    "reviews": 241,
+    "soldCount": 1011
   },
   {
-    "id": 95,
+    "id": 93,
     "name": "Camisa Inglaterra",
     "price": 80,
-    "image": "/ROUPAS/Inglaterra/e8326f45.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/69992fba.jpg",
     "images": [
-      "/ROUPAS/Inglaterra/e8326f45.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/69992fba.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Inglaterra",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Inglaterra — versão tailandesa da seleção de Inglaterra. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.6,
+    "reviews": 326,
+    "soldCount": 1059
+  },
+  {
+    "id": 94,
+    "name": "Camisa Inglaterra",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/e630bf7f.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/e630bf7f.jpg"
     ],
     "category": "Camisas",
     "team": "Inglaterra",
@@ -2779,16 +2748,45 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 5,
-    "reviews": 130,
-    "soldCount": 1759
+    "reviews": 55,
+    "soldCount": 739
+  },
+  {
+    "id": 95,
+    "name": "Camisa Inglaterra",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/e8326f45.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Inglaterra/e8326f45.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Inglaterra",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Inglaterra — versão tailandesa da seleção de Inglaterra. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.6,
+    "reviews": 318,
+    "soldCount": 706
   },
   {
     "id": 96,
     "name": "Camisa Itália",
     "price": 80,
-    "image": "/ROUPAS/Itália_/20c47589.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/20c47589.jpg",
     "images": [
-      "/ROUPAS/Itália_/20c47589.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/20c47589.jpg"
     ],
     "category": "Camisas",
     "team": "Itália",
@@ -2807,17 +2805,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 310,
-    "soldCount": 1246
+    "rating": 4.9,
+    "reviews": 295,
+    "soldCount": 1476
   },
   {
     "id": 97,
     "name": "Camisa 23 24 Italian 125th Anniversary Edition",
     "price": 80,
-    "image": "/ROUPAS/Itália_/23-24 Italian 125th Anniversary Edition.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/23-24_Italian_125th_Anniversary_Edition.jpg",
     "images": [
-      "/ROUPAS/Itália_/23-24 Italian 125th Anniversary Edition.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/23-24_Italian_125th_Anniversary_Edition.jpg"
     ],
     "category": "Camisas",
     "team": "Itália",
@@ -2836,17 +2834,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 50,
-    "soldCount": 1578
+    "rating": 4.7,
+    "reviews": 207,
+    "soldCount": 790
   },
   {
     "id": 98,
     "name": "Camisa 23 24 Italy Green Special Edition",
     "price": 80,
-    "image": "/ROUPAS/Itália_/23-24 Italy Green Special Edition.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/23-24_Italy_Green_Special_Edition.jpg",
     "images": [
-      "/ROUPAS/Itália_/23-24 Italy Green Special Edition.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/23-24_Italy_Green_Special_Edition.jpg"
     ],
     "category": "Camisas",
     "team": "Itália",
@@ -2865,17 +2863,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 215,
-    "soldCount": 1115
+    "rating": 4.8,
+    "reviews": 145,
+    "soldCount": 883
   },
   {
     "id": 99,
     "name": "Camisa 23 24 Itália goalkeeper",
     "price": 80,
-    "image": "/ROUPAS/Itália_/23-24 Itália goalkeeper.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/23-24_Italia_goalkeeper.jpg",
     "images": [
-      "/ROUPAS/Itália_/23-24 Itália goalkeeper.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/23-24_Italia_goalkeeper.jpg"
     ],
     "category": "Camisas",
     "team": "Itália",
@@ -2895,17 +2893,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 204,
-    "soldCount": 724
+    "rating": 4.6,
+    "reviews": 218,
+    "soldCount": 1169
   },
   {
     "id": 100,
     "name": "Camisa 23 34 Italian away",
     "price": 80,
-    "image": "/ROUPAS/Itália_/23-34 Italian away.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/23-34_Italian_away.jpg",
     "images": [
-      "/ROUPAS/Itália_/23-34 Italian away.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/23-34_Italian_away.jpg"
     ],
     "category": "Camisas",
     "team": "Itália",
@@ -2925,16 +2923,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.6,
-    "reviews": 278,
-    "soldCount": 2056
+    "reviews": 170,
+    "soldCount": 2058
   },
   {
     "id": 101,
     "name": "Camisa 23 34 Italian home",
     "price": 80,
-    "image": "/ROUPAS/Itália_/23-34 Italian home.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/23-34_Italian_home.jpg",
     "images": [
-      "/ROUPAS/Itália_/23-34 Italian home.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/23-34_Italian_home.jpg"
     ],
     "category": "Camisas",
     "team": "Itália",
@@ -2953,17 +2951,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 301,
-    "soldCount": 992
+    "rating": 4.6,
+    "reviews": 195,
+    "soldCount": 1449
   },
   {
     "id": 102,
     "name": "Camisa 23 24 Italy Away",
     "price": 80,
-    "image": "/ROUPAS/Itália_/23_24 Italy Away_.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/23_24_Italy_Away_.jpg",
     "images": [
-      "/ROUPAS/Itália_/23_24 Italy Away_.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/23_24_Italy_Away_.jpg"
     ],
     "category": "Camisas",
     "team": "Itália",
@@ -2982,17 +2980,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 5,
-    "reviews": 282,
-    "soldCount": 1029
+    "rating": 4.6,
+    "reviews": 345,
+    "soldCount": 1571
   },
   {
     "id": 103,
     "name": "Camisa 23 24 Italy Home",
     "price": 80,
-    "image": "/ROUPAS/Itália_/23_24 Italy Home.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/23_24_Italy_Home.jpg",
     "images": [
-      "/ROUPAS/Itália_/23_24 Italy Home.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/23_24_Italy_Home.jpg"
     ],
     "category": "Camisas",
     "team": "Itália",
@@ -3011,17 +3009,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 94,
-    "soldCount": 541
+    "rating": 4.9,
+    "reviews": 99,
+    "soldCount": 211
   },
   {
     "id": 104,
     "name": "Camisa Itália",
     "price": 80,
-    "image": "/ROUPAS/Itália_/390f78cc.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/390f78cc.jpg",
     "images": [
-      "/ROUPAS/Itália_/390f78cc.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/390f78cc.jpg"
     ],
     "category": "Camisas",
     "team": "Itália",
@@ -3041,16 +3039,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 5,
-    "reviews": 263,
-    "soldCount": 1389
+    "reviews": 243,
+    "soldCount": 490
   },
   {
     "id": 105,
     "name": "Camisa Itália",
     "price": 80,
-    "image": "/ROUPAS/Itália_/48a03870.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/48a03870.jpg",
     "images": [
-      "/ROUPAS/Itália_/48a03870.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/48a03870.jpg"
     ],
     "category": "Camisas",
     "team": "Itália",
@@ -3070,16 +3068,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.6,
-    "reviews": 55,
-    "soldCount": 1422
+    "reviews": 277,
+    "soldCount": 1941
   },
   {
     "id": 106,
     "name": "Camisa Itália",
     "price": 80,
-    "image": "/ROUPAS/Itália_/95c06466.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/95c06466.jpg",
     "images": [
-      "/ROUPAS/Itália_/95c06466.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/95c06466.jpg"
     ],
     "category": "Camisas",
     "team": "Itália",
@@ -3098,17 +3096,46 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 258,
-    "soldCount": 289
+    "rating": 4.8,
+    "reviews": 343,
+    "soldCount": 1783
   },
   {
     "id": 107,
     "name": "Camisa Itália",
     "price": 80,
-    "image": "/ROUPAS/Itália_/b1d27da0.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/b1d27da0.jpg",
     "images": [
-      "/ROUPAS/Itália_/b1d27da0.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/b1d27da0.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Itália",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Itália — versão tailandesa da seleção de Itália. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.9,
+    "reviews": 151,
+    "soldCount": 1776
+  },
+  {
+    "id": 108,
+    "name": "Camisa Itália",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/cc3bd4f2.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/cc3bd4f2.jpg"
     ],
     "category": "Camisas",
     "team": "Itália",
@@ -3128,74 +3155,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.5,
-    "reviews": 292,
-    "soldCount": 910
-  },
-  {
-    "id": 108,
-    "name": "Camisa Itália",
-    "price": 80,
-    "image": "/ROUPAS/Itália_/cc3bd4f2.jpg",
-    "images": [
-      "/ROUPAS/Itália_/cc3bd4f2.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Itália",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Itália — versão tailandesa da seleção de Itália. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.6,
-    "reviews": 214,
-    "soldCount": 285
+    "reviews": 142,
+    "soldCount": 1450
   },
   {
     "id": 109,
     "name": "Camisa Itália",
     "price": 80,
-    "image": "/ROUPAS/Itália_/d27a4e47.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/d27a4e47.jpg",
     "images": [
-      "/ROUPAS/Itália_/d27a4e47.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Itália",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Itália — versão tailandesa da seleção de Itália. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.6,
-    "reviews": 329,
-    "soldCount": 1620
-  },
-  {
-    "id": 110,
-    "name": "Camisa Itália",
-    "price": 80,
-    "image": "/ROUPAS/Itália_/fd54dd04.jpg",
-    "images": [
-      "/ROUPAS/Itália_/fd54dd04.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/d27a4e47.jpg"
     ],
     "category": "Camisas",
     "team": "Itália",
@@ -3215,16 +3184,45 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.7,
-    "reviews": 154,
-    "soldCount": 1067
+    "reviews": 73,
+    "soldCount": 424
+  },
+  {
+    "id": 110,
+    "name": "Camisa Itália",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/fd54dd04.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Italia_/fd54dd04.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Itália",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Itália — versão tailandesa da seleção de Itália. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.6,
+    "reviews": 140,
+    "soldCount": 1918
   },
   {
     "id": 111,
     "name": "Camisa 2024 Jamaica Black",
     "price": 80,
-    "image": "/ROUPAS/Jamaica/2024 Jamaica Black_.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Jamaica/2024_Jamaica_Black_.jpg",
     "images": [
-      "/ROUPAS/Jamaica/2024 Jamaica Black_.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Jamaica/2024_Jamaica_Black_.jpg"
     ],
     "category": "Camisas",
     "team": "Jamaica",
@@ -3244,17 +3242,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 83,
-    "soldCount": 125
+    "rating": 4.7,
+    "reviews": 162,
+    "soldCount": 703
   },
   {
     "id": 112,
     "name": "Camisa 23 24 Jamaica Home",
     "price": 80,
-    "image": "/ROUPAS/Jamaica/23-24 Jamaica Home.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Jamaica/23-24_Jamaica_Home.jpg",
     "images": [
-      "/ROUPAS/Jamaica/23-24 Jamaica Home.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Jamaica/23-24_Jamaica_Home.jpg"
     ],
     "category": "Camisas",
     "team": "Jamaica",
@@ -3273,17 +3271,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 156,
-    "soldCount": 464
+    "rating": 4.6,
+    "reviews": 307,
+    "soldCount": 1488
   },
   {
     "id": 113,
     "name": "Camisa 23 24 Jamaica Training Suit",
     "price": 80,
-    "image": "/ROUPAS/Jamaica/23-24 Jamaica Training Suit.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Jamaica/23-24_Jamaica_Training_Suit.jpg",
     "images": [
-      "/ROUPAS/Jamaica/23-24 Jamaica Training Suit.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Jamaica/23-24_Jamaica_Training_Suit.jpg"
     ],
     "category": "Camisas",
     "team": "Jamaica",
@@ -3303,17 +3301,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 158,
-    "soldCount": 332
+    "rating": 4.6,
+    "reviews": 304,
+    "soldCount": 1208
   },
   {
     "id": 114,
     "name": "Camisa 23 24 Jamaica away",
     "price": 80,
-    "image": "/ROUPAS/Jamaica/23-24 Jamaica away.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Jamaica/23-24_Jamaica_away.jpg",
     "images": [
-      "/ROUPAS/Jamaica/23-24 Jamaica away.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Jamaica/23-24_Jamaica_away.jpg"
     ],
     "category": "Camisas",
     "team": "Jamaica",
@@ -3332,17 +3330,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 62,
-    "soldCount": 1648
+    "rating": 4.5,
+    "reviews": 176,
+    "soldCount": 1557
   },
   {
     "id": 115,
     "name": "Camisa Jamaica",
     "price": 80,
-    "image": "/ROUPAS/Jamaica/448cbd08.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Jamaica/448cbd08.jpg",
     "images": [
-      "/ROUPAS/Jamaica/448cbd08.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Jamaica/448cbd08.jpg"
     ],
     "category": "Camisas",
     "team": "Jamaica",
@@ -3361,17 +3359,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 148,
-    "soldCount": 1058
+    "rating": 4.5,
+    "reviews": 123,
+    "soldCount": 863
   },
   {
     "id": 116,
     "name": "Camisa Marrocos",
     "price": 80,
-    "image": "/ROUPAS/Marrocos/E21278A06026A340F7B291F09D11115D.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Marrocos/E21278A06026A340F7B291F09D11115D.jpg",
     "images": [
-      "/ROUPAS/Marrocos/E21278A06026A340F7B291F09D11115D.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Marrocos/E21278A06026A340F7B291F09D11115D.jpg"
     ],
     "category": "Camisas",
     "team": "Marrocos",
@@ -3390,17 +3388,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 170,
-    "soldCount": 2036
+    "rating": 4.7,
+    "reviews": 205,
+    "soldCount": 1685
   },
   {
     "id": 117,
     "name": "Camisa 22.23 México II",
     "price": 80,
-    "image": "/ROUPAS/México/22.23 México II.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/22.23_Mexico_II.jpg",
     "images": [
-      "/ROUPAS/México/22.23 México II.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/22.23_Mexico_II.jpg"
     ],
     "category": "Camisas",
     "team": "México",
@@ -3419,17 +3417,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 84,
-    "soldCount": 664
+    "rating": 5,
+    "reviews": 165,
+    "soldCount": 850
   },
   {
     "id": 118,
     "name": "Camisa 22.23 México",
     "price": 80,
-    "image": "/ROUPAS/México/22.23 México.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/22.23_Mexico.jpg",
     "images": [
-      "/ROUPAS/México/22.23 México.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/22.23_Mexico.jpg"
     ],
     "category": "Camisas",
     "team": "México",
@@ -3448,17 +3446,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 331,
-    "soldCount": 222
+    "rating": 4.6,
+    "reviews": 236,
+    "soldCount": 1178
   },
   {
     "id": 119,
     "name": "Camisa 23 24 Mexico White",
     "price": 80,
-    "image": "/ROUPAS/México/23-24 Mexico White.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/23-24_Mexico_White.jpg",
     "images": [
-      "/ROUPAS/México/23-24 Mexico White.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/23-24_Mexico_White.jpg"
     ],
     "category": "Camisas",
     "team": "México",
@@ -3477,17 +3475,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 95,
-    "soldCount": 993
+    "rating": 4.5,
+    "reviews": 242,
+    "soldCount": 1953
   },
   {
     "id": 120,
     "name": "Camisa 23 24 México Branco",
     "price": 80,
-    "image": "/ROUPAS/México/23_24 México Branco.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/23_24_Mexico_Branco.jpg",
     "images": [
-      "/ROUPAS/México/23_24 México Branco.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/23_24_Mexico_Branco.jpg"
     ],
     "category": "Camisas",
     "team": "México",
@@ -3506,17 +3504,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 183,
-    "soldCount": 1984
+    "rating": 4.7,
+    "reviews": 310,
+    "soldCount": 1606
   },
   {
     "id": 121,
     "name": "Camisa 23 24 México Vermelho",
     "price": 80,
-    "image": "/ROUPAS/México/23_24 México Vermelho.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/23_24_Mexico_Vermelho.jpg",
     "images": [
-      "/ROUPAS/México/23_24 México Vermelho.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/23_24_Mexico_Vermelho.jpg"
     ],
     "category": "Camisas",
     "team": "México",
@@ -3536,16 +3534,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.5,
-    "reviews": 259,
-    "soldCount": 1718
+    "reviews": 51,
+    "soldCount": 803
   },
   {
     "id": 122,
     "name": "Camisa México",
     "price": 80,
-    "image": "/ROUPAS/México/345d5e7e.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/345d5e7e.jpg",
     "images": [
-      "/ROUPAS/México/345d5e7e.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/345d5e7e.jpg"
     ],
     "category": "Camisas",
     "team": "México",
@@ -3564,17 +3562,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 305,
-    "soldCount": 699
+    "rating": 4.6,
+    "reviews": 242,
+    "soldCount": 1891
   },
   {
     "id": 123,
     "name": "Camisa México",
     "price": 80,
-    "image": "/ROUPAS/México/692c7425.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/692c7425.jpg",
     "images": [
-      "/ROUPAS/México/692c7425.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/692c7425.jpg"
     ],
     "category": "Camisas",
     "team": "México",
@@ -3593,75 +3591,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 298,
-    "soldCount": 499
+    "rating": 4.7,
+    "reviews": 82,
+    "soldCount": 618
   },
   {
     "id": 124,
     "name": "Camisa México",
     "price": 80,
-    "image": "/ROUPAS/México/7740b3b9.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/7740b3b9.jpg",
     "images": [
-      "/ROUPAS/México/7740b3b9.jpg"
-    ],
-    "category": "Camisas",
-    "team": "México",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa México — versão tailandesa da seleção de México. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.6,
-    "reviews": 247,
-    "soldCount": 212
-  },
-  {
-    "id": 125,
-    "name": "Camisa México",
-    "price": 80,
-    "image": "/ROUPAS/México/931a2157.jpg",
-    "images": [
-      "/ROUPAS/México/931a2157.jpg"
-    ],
-    "category": "Camisas",
-    "team": "México",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa México — versão tailandesa da seleção de México. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.6,
-    "reviews": 135,
-    "soldCount": 248
-  },
-  {
-    "id": 126,
-    "name": "Camisa México",
-    "price": 80,
-    "image": "/ROUPAS/México/97e07c82.jpg",
-    "images": [
-      "/ROUPAS/México/97e07c82.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/7740b3b9.jpg"
     ],
     "category": "Camisas",
     "team": "México",
@@ -3681,16 +3621,103 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.9,
-    "reviews": 298,
-    "soldCount": 1211
+    "reviews": 330,
+    "soldCount": 1162
+  },
+  {
+    "id": 125,
+    "name": "Camisa México",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/931a2157.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/931a2157.jpg"
+    ],
+    "category": "Camisas",
+    "team": "México",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa México — versão tailandesa da seleção de México. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.7,
+    "reviews": 292,
+    "soldCount": 782
+  },
+  {
+    "id": 126,
+    "name": "Camisa México",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/97e07c82.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/97e07c82.jpg"
+    ],
+    "category": "Camisas",
+    "team": "México",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa México — versão tailandesa da seleção de México. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.7,
+    "reviews": 348,
+    "soldCount": 139
   },
   {
     "id": 127,
     "name": "Camisa México",
     "price": 80,
-    "image": "/ROUPAS/México/a06266f6.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/a06266f6.jpg",
     "images": [
-      "/ROUPAS/México/a06266f6.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/a06266f6.jpg"
+    ],
+    "category": "Camisas",
+    "team": "México",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa México — versão tailandesa da seleção de México. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.9,
+    "reviews": 106,
+    "soldCount": 946
+  },
+  {
+    "id": 128,
+    "name": "Camisa México",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/a6c93de9.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/a6c93de9.jpg"
     ],
     "category": "Camisas",
     "team": "México",
@@ -3710,16 +3737,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 5,
-    "reviews": 243,
-    "soldCount": 728
+    "reviews": 139,
+    "soldCount": 1686
   },
   {
-    "id": 128,
+    "id": 129,
     "name": "Camisa México",
     "price": 80,
-    "image": "/ROUPAS/México/a6c93de9.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/c3d50822.jpg",
     "images": [
-      "/ROUPAS/México/a6c93de9.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/c3d50822.jpg"
     ],
     "category": "Camisas",
     "team": "México",
@@ -3739,45 +3766,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.8,
-    "reviews": 75,
-    "soldCount": 837
-  },
-  {
-    "id": 129,
-    "name": "Camisa México",
-    "price": 80,
-    "image": "/ROUPAS/México/c3d50822.jpg",
-    "images": [
-      "/ROUPAS/México/c3d50822.jpg"
-    ],
-    "category": "Camisas",
-    "team": "México",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa México — versão tailandesa da seleção de México. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.9,
-    "reviews": 269,
-    "soldCount": 642
+    "reviews": 243,
+    "soldCount": 1064
   },
   {
     "id": 130,
     "name": "Camisa México",
     "price": 80,
-    "image": "/ROUPAS/México/c47099f8.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/c47099f8.jpg",
     "images": [
-      "/ROUPAS/México/c47099f8.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/c47099f8.jpg"
     ],
     "category": "Camisas",
     "team": "México",
@@ -3797,16 +3795,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.7,
-    "reviews": 182,
-    "soldCount": 1721
+    "reviews": 141,
+    "soldCount": 1485
   },
   {
     "id": 131,
     "name": "Camisa México",
     "price": 80,
-    "image": "/ROUPAS/México/c9e63f40.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/c9e63f40.jpg",
     "images": [
-      "/ROUPAS/México/c9e63f40.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/c9e63f40.jpg"
     ],
     "category": "Camisas",
     "team": "México",
@@ -3825,17 +3823,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 132,
-    "soldCount": 1506
+    "rating": 4.8,
+    "reviews": 235,
+    "soldCount": 715
   },
   {
     "id": 132,
     "name": "Camisa México",
     "price": 80,
-    "image": "/ROUPAS/México/eb8cba3b.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/eb8cba3b.jpg",
     "images": [
-      "/ROUPAS/México/eb8cba3b.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Mexico/eb8cba3b.jpg"
     ],
     "category": "Camisas",
     "team": "México",
@@ -3855,16 +3853,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.7,
-    "reviews": 126,
-    "soldCount": 1781
+    "reviews": 132,
+    "soldCount": 1153
   },
   {
     "id": 133,
     "name": "Camisa 01 2024 25 Portugal home",
     "price": 80,
-    "image": "/ROUPAS/Portugal/01 - 2024_25 Portugal home.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/01_-_2024_25_Portugal_home.jpg",
     "images": [
-      "/ROUPAS/Portugal/01 - 2024_25 Portugal home.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/01_-_2024_25_Portugal_home.jpg"
     ],
     "category": "Camisas",
     "team": "Portugal",
@@ -3884,17 +3882,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 73,
-    "soldCount": 322
+    "rating": 4.9,
+    "reviews": 349,
+    "soldCount": 566
   },
   {
     "id": 134,
     "name": "Camisa 02 2024 25 Portugal away",
     "price": 80,
-    "image": "/ROUPAS/Portugal/02 - 2024_25 Portugal away.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/02_-_2024_25_Portugal_away.jpg",
     "images": [
-      "/ROUPAS/Portugal/02 - 2024_25 Portugal away.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/02_-_2024_25_Portugal_away.jpg"
     ],
     "category": "Camisas",
     "team": "Portugal",
@@ -3914,17 +3912,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 152,
-    "soldCount": 1050
+    "rating": 4.6,
+    "reviews": 189,
+    "soldCount": 547
   },
   {
     "id": 135,
     "name": "Camisa Portugal",
     "price": 80,
-    "image": "/ROUPAS/Portugal/1fd90beb.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/1fd90beb.jpg",
     "images": [
-      "/ROUPAS/Portugal/1fd90beb.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/1fd90beb.jpg"
     ],
     "category": "Camisas",
     "team": "Portugal",
@@ -3944,16 +3942,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.8,
-    "reviews": 89,
-    "soldCount": 1979
+    "reviews": 50,
+    "soldCount": 1519
   },
   {
     "id": 136,
     "name": "Camisa 2024 Goalkeeper Portugal Yellow",
     "price": 80,
-    "image": "/ROUPAS/Portugal/2024 Goalkeeper Portugal Yellow.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/2024_Goalkeeper_Portugal_Yellow.jpg",
     "images": [
-      "/ROUPAS/Portugal/2024 Goalkeeper Portugal Yellow.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/2024_Goalkeeper_Portugal_Yellow.jpg"
     ],
     "category": "Camisas",
     "team": "Portugal",
@@ -3973,17 +3971,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 213,
-    "soldCount": 1172
+    "rating": 4.5,
+    "reviews": 279,
+    "soldCount": 577
   },
   {
     "id": 137,
     "name": "Camisa 2024 Portugal Training Wear Red",
     "price": 80,
-    "image": "/ROUPAS/Portugal/2024 Portugal Training Wear Red.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/2024_Portugal_Training_Wear_Red.jpg",
     "images": [
-      "/ROUPAS/Portugal/2024 Portugal Training Wear Red.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/2024_Portugal_Training_Wear_Red.jpg"
     ],
     "category": "Camisas",
     "team": "Portugal",
@@ -4003,17 +4001,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 193,
-    "soldCount": 1967
+    "rating": 4.8,
+    "reviews": 143,
+    "soldCount": 1674
   },
   {
     "id": 138,
     "name": "Camisa 23 24 Portugal Training Suit",
     "price": 80,
-    "image": "/ROUPAS/Portugal/23-24 Portugal Training Suit.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/23-24_Portugal_Training_Suit.jpg",
     "images": [
-      "/ROUPAS/Portugal/23-24 Portugal Training Suit.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/23-24_Portugal_Training_Suit.jpg"
     ],
     "category": "Camisas",
     "team": "Portugal",
@@ -4033,17 +4031,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 155,
-    "soldCount": 1141
+    "rating": 4.8,
+    "reviews": 266,
+    "soldCount": 1262
   },
   {
     "id": 139,
     "name": "Camisa 23 24 Portugal Special Edition",
     "price": 80,
-    "image": "/ROUPAS/Portugal/23_24 Portugal Special Edition_.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/23_24_Portugal_Special_Edition_.jpg",
     "images": [
-      "/ROUPAS/Portugal/23_24 Portugal Special Edition_.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/23_24_Portugal_Special_Edition_.jpg"
     ],
     "category": "Camisas",
     "team": "Portugal",
@@ -4062,17 +4060,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 5,
-    "reviews": 303,
-    "soldCount": 255
+    "rating": 4.8,
+    "reviews": 307,
+    "soldCount": 1682
   },
   {
     "id": 140,
     "name": "Camisa 23 24 Portugal Special",
     "price": 80,
-    "image": "/ROUPAS/Portugal/23_24 Portugal Special.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/23_24_Portugal_Special.jpg",
     "images": [
-      "/ROUPAS/Portugal/23_24 Portugal Special.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/23_24_Portugal_Special.jpg"
     ],
     "category": "Camisas",
     "team": "Portugal",
@@ -4091,17 +4089,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 232,
-    "soldCount": 1926
+    "rating": 4.7,
+    "reviews": 144,
+    "soldCount": 1578
   },
   {
     "id": 141,
     "name": "Camisa Portugal",
     "price": 80,
-    "image": "/ROUPAS/Portugal/24406cf6.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/24406cf6.jpg",
     "images": [
-      "/ROUPAS/Portugal/24406cf6.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/24406cf6.jpg"
     ],
     "category": "Camisas",
     "team": "Portugal",
@@ -4120,17 +4118,278 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 255,
-    "soldCount": 1629
+    "rating": 4.9,
+    "reviews": 72,
+    "soldCount": 1171
   },
   {
     "id": 142,
     "name": "Camisa Portugal",
     "price": 80,
-    "image": "/ROUPAS/Portugal/24687788.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/24687788.jpg",
     "images": [
-      "/ROUPAS/Portugal/24687788.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/24687788.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Portugal",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.9,
+    "reviews": 340,
+    "soldCount": 1489
+  },
+  {
+    "id": 143,
+    "name": "Camisa Portugal",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/3ddbe713.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/3ddbe713.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Portugal",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.7,
+    "reviews": 201,
+    "soldCount": 171
+  },
+  {
+    "id": 144,
+    "name": "Camisa Portugal",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/6113f500.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/6113f500.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Portugal",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.7,
+    "reviews": 292,
+    "soldCount": 1925
+  },
+  {
+    "id": 145,
+    "name": "Camisa Portugal",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/73c897df.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/73c897df.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Portugal",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 5,
+    "reviews": 304,
+    "soldCount": 1680
+  },
+  {
+    "id": 146,
+    "name": "Camisa Portugal",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/8dbce08f.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/8dbce08f.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Portugal",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.7,
+    "reviews": 225,
+    "soldCount": 968
+  },
+  {
+    "id": 147,
+    "name": "Camisa Portugal",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/8e452e4f.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/8e452e4f.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Portugal",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.6,
+    "reviews": 110,
+    "soldCount": 1003
+  },
+  {
+    "id": 148,
+    "name": "Camisa Portugal",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/a16d7918.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/a16d7918.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Portugal",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.9,
+    "reviews": 164,
+    "soldCount": 1202
+  },
+  {
+    "id": 149,
+    "name": "Camisa Portugal",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/a429c712.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/a429c712.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Portugal",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.9,
+    "reviews": 77,
+    "soldCount": 324
+  },
+  {
+    "id": 150,
+    "name": "Camisa Portugal",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/af540b34.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/af540b34.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Portugal",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.9,
+    "reviews": 64,
+    "soldCount": 1878
+  },
+  {
+    "id": 151,
+    "name": "Camisa Portugal",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/b7dc6e4b.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/b7dc6e4b.jpg"
     ],
     "category": "Camisas",
     "team": "Portugal",
@@ -4150,306 +4409,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.8,
-    "reviews": 291,
-    "soldCount": 1147
-  },
-  {
-    "id": 143,
-    "name": "Camisa Portugal",
-    "price": 80,
-    "image": "/ROUPAS/Portugal/3ddbe713.jpg",
-    "images": [
-      "/ROUPAS/Portugal/3ddbe713.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Portugal",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.7,
-    "reviews": 154,
-    "soldCount": 1553
-  },
-  {
-    "id": 144,
-    "name": "Camisa Portugal",
-    "price": 80,
-    "image": "/ROUPAS/Portugal/6113f500.jpg",
-    "images": [
-      "/ROUPAS/Portugal/6113f500.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Portugal",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.9,
-    "reviews": 91,
-    "soldCount": 604
-  },
-  {
-    "id": 145,
-    "name": "Camisa Portugal",
-    "price": 80,
-    "image": "/ROUPAS/Portugal/73c897df.jpg",
-    "images": [
-      "/ROUPAS/Portugal/73c897df.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Portugal",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 5,
-    "reviews": 270,
-    "soldCount": 550
-  },
-  {
-    "id": 146,
-    "name": "Camisa Portugal",
-    "price": 80,
-    "image": "/ROUPAS/Portugal/8dbce08f.jpg",
-    "images": [
-      "/ROUPAS/Portugal/8dbce08f.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Portugal",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.7,
-    "reviews": 331,
-    "soldCount": 679
-  },
-  {
-    "id": 147,
-    "name": "Camisa Portugal",
-    "price": 80,
-    "image": "/ROUPAS/Portugal/8e452e4f.jpg",
-    "images": [
-      "/ROUPAS/Portugal/8e452e4f.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Portugal",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.7,
-    "reviews": 219,
-    "soldCount": 402
-  },
-  {
-    "id": 148,
-    "name": "Camisa Portugal",
-    "price": 80,
-    "image": "/ROUPAS/Portugal/a16d7918.jpg",
-    "images": [
-      "/ROUPAS/Portugal/a16d7918.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Portugal",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.7,
-    "reviews": 103,
-    "soldCount": 1037
-  },
-  {
-    "id": 149,
-    "name": "Camisa Portugal",
-    "price": 80,
-    "image": "/ROUPAS/Portugal/a429c712.jpg",
-    "images": [
-      "/ROUPAS/Portugal/a429c712.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Portugal",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.9,
-    "reviews": 88,
-    "soldCount": 1167
-  },
-  {
-    "id": 150,
-    "name": "Camisa Portugal",
-    "price": 80,
-    "image": "/ROUPAS/Portugal/af540b34.jpg",
-    "images": [
-      "/ROUPAS/Portugal/af540b34.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Portugal",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.9,
-    "reviews": 341,
-    "soldCount": 146
-  },
-  {
-    "id": 151,
-    "name": "Camisa Portugal",
-    "price": 80,
-    "image": "/ROUPAS/Portugal/b7dc6e4b.jpg",
-    "images": [
-      "/ROUPAS/Portugal/b7dc6e4b.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Portugal",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.7,
-    "reviews": 235,
-    "soldCount": 1059
+    "reviews": 171,
+    "soldCount": 1906
   },
   {
     "id": 152,
     "name": "Camisa Portugal",
     "price": 80,
-    "image": "/ROUPAS/Portugal/b9c65694.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/b9c65694.jpg",
     "images": [
-      "/ROUPAS/Portugal/b9c65694.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Portugal",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.9,
-    "reviews": 162,
-    "soldCount": 734
-  },
-  {
-    "id": 153,
-    "name": "Camisa Portugal",
-    "price": 80,
-    "image": "/ROUPAS/Portugal/c2fe1379.jpg",
-    "images": [
-      "/ROUPAS/Portugal/c2fe1379.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/b9c65694.jpg"
     ],
     "category": "Camisas",
     "team": "Portugal",
@@ -4469,16 +4438,16 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.7,
-    "reviews": 118,
-    "soldCount": 1996
+    "reviews": 339,
+    "soldCount": 424
   },
   {
-    "id": 154,
+    "id": 153,
     "name": "Camisa Portugal",
     "price": 80,
-    "image": "/ROUPAS/Portugal/c3da61e0.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/c2fe1379.jpg",
     "images": [
-      "/ROUPAS/Portugal/c3da61e0.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/c2fe1379.jpg"
     ],
     "category": "Camisas",
     "team": "Portugal",
@@ -4497,17 +4466,46 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 290,
-    "soldCount": 205
+    "rating": 4.8,
+    "reviews": 148,
+    "soldCount": 889
+  },
+  {
+    "id": 154,
+    "name": "Camisa Portugal",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/c3da61e0.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Portugal/c3da61e0.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Portugal",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Portugal — versão tailandesa da seleção de Portugal. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.7,
+    "reviews": 83,
+    "soldCount": 2079
   },
   {
     "id": 155,
     "name": "Camisa 2023 24 Uruguay Black",
     "price": 80,
-    "image": "/ROUPAS/Uruguai/2023_24 Uruguay Black_.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/2023_24_Uruguay_Black_.jpg",
     "images": [
-      "/ROUPAS/Uruguai/2023_24 Uruguay Black_.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/2023_24_Uruguay_Black_.jpg"
     ],
     "category": "Camisas",
     "team": "Uruguai",
@@ -4526,17 +4524,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 75,
-    "soldCount": 1866
+    "rating": 4.8,
+    "reviews": 326,
+    "soldCount": 2019
   },
   {
     "id": 156,
     "name": "Camisa 2024 Uruguay Special Edition",
     "price": 80,
-    "image": "/ROUPAS/Uruguai/2024 Uruguay Special Edition.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/2024_Uruguay_Special_Edition.jpg",
     "images": [
-      "/ROUPAS/Uruguai/2024 Uruguay Special Edition.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/2024_Uruguay_Special_Edition.jpg"
     ],
     "category": "Camisas",
     "team": "Uruguai",
@@ -4556,191 +4554,17 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 5,
-    "reviews": 119,
-    "soldCount": 1830
+    "rating": 4.9,
+    "reviews": 341,
+    "soldCount": 546
   },
   {
     "id": 157,
     "name": "Camisa Uruguai",
     "price": 80,
-    "image": "/ROUPAS/Uruguai/2cc09f7b.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/2cc09f7b.jpg",
     "images": [
-      "/ROUPAS/Uruguai/2cc09f7b.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Uruguai",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Uruguai — versão tailandesa da seleção de Uruguai. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.6,
-    "reviews": 236,
-    "soldCount": 210
-  },
-  {
-    "id": 158,
-    "name": "Camisa Uruguai",
-    "price": 80,
-    "image": "/ROUPAS/Uruguai/39421be7.jpg",
-    "images": [
-      "/ROUPAS/Uruguai/39421be7.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Uruguai",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Uruguai — versão tailandesa da seleção de Uruguai. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.7,
-    "reviews": 269,
-    "soldCount": 964
-  },
-  {
-    "id": 159,
-    "name": "Camisa Uruguai",
-    "price": 80,
-    "image": "/ROUPAS/Uruguai/48871c05.jpg",
-    "images": [
-      "/ROUPAS/Uruguai/48871c05.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Uruguai",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Uruguai — versão tailandesa da seleção de Uruguai. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 5,
-    "reviews": 235,
-    "soldCount": 1716
-  },
-  {
-    "id": 160,
-    "name": "Camisa Uruguai",
-    "price": 80,
-    "image": "/ROUPAS/Uruguai/4b63bc7f.jpg",
-    "images": [
-      "/ROUPAS/Uruguai/4b63bc7f.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Uruguai",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Uruguai — versão tailandesa da seleção de Uruguai. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.6,
-    "reviews": 253,
-    "soldCount": 1789
-  },
-  {
-    "id": 161,
-    "name": "Camisa Uruguai",
-    "price": 80,
-    "image": "/ROUPAS/Uruguai/5a12f276.jpg",
-    "images": [
-      "/ROUPAS/Uruguai/5a12f276.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Uruguai",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Uruguai — versão tailandesa da seleção de Uruguai. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.9,
-    "reviews": 55,
-    "soldCount": 589
-  },
-  {
-    "id": 162,
-    "name": "Camisa Uruguai",
-    "price": 80,
-    "image": "/ROUPAS/Uruguai/654da595.jpg",
-    "images": [
-      "/ROUPAS/Uruguai/654da595.jpg"
-    ],
-    "category": "Camisas",
-    "team": "Uruguai",
-    "sizes": [
-      "P",
-      "M",
-      "G",
-      "GG",
-      "XGG"
-    ],
-    "description": "Camisa Uruguai — versão tailandesa da seleção de Uruguai. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
-    "features": [
-      "Versão tailandesa premium",
-      "Tecido com tecnologia de absorção de suor",
-      "Escudo bordado em alta qualidade",
-      "Corte moderno e costura reforçada",
-      "Material: 100% poliéster"
-    ],
-    "rating": 4.6,
-    "reviews": 259,
-    "soldCount": 1992
-  },
-  {
-    "id": 163,
-    "name": "Camisa Uruguai",
-    "price": 80,
-    "image": "/ROUPAS/Uruguai/90e46550.jpg",
-    "images": [
-      "/ROUPAS/Uruguai/90e46550.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/2cc09f7b.jpg"
     ],
     "category": "Camisas",
     "team": "Uruguai",
@@ -4760,16 +4584,74 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.8,
-    "reviews": 331,
-    "soldCount": 1087
+    "reviews": 221,
+    "soldCount": 1271
   },
   {
-    "id": 164,
+    "id": 158,
     "name": "Camisa Uruguai",
     "price": 80,
-    "image": "/ROUPAS/Uruguai/bad7fde8.jpg",
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/39421be7.jpg",
     "images": [
-      "/ROUPAS/Uruguai/bad7fde8.jpg"
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/39421be7.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Uruguai",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Uruguai — versão tailandesa da seleção de Uruguai. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.6,
+    "reviews": 183,
+    "soldCount": 2010
+  },
+  {
+    "id": 159,
+    "name": "Camisa Uruguai",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/48871c05.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/48871c05.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Uruguai",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Uruguai — versão tailandesa da seleção de Uruguai. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.8,
+    "reviews": 256,
+    "soldCount": 1288
+  },
+  {
+    "id": 160,
+    "name": "Camisa Uruguai",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/4b63bc7f.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/4b63bc7f.jpg"
     ],
     "category": "Camisas",
     "team": "Uruguai",
@@ -4789,8 +4671,124 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.9,
-    "reviews": 141,
-    "soldCount": 1100
+    "reviews": 155,
+    "soldCount": 1808
+  },
+  {
+    "id": 161,
+    "name": "Camisa Uruguai",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/5a12f276.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/5a12f276.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Uruguai",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Uruguai — versão tailandesa da seleção de Uruguai. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.9,
+    "reviews": 262,
+    "soldCount": 1089
+  },
+  {
+    "id": 162,
+    "name": "Camisa Uruguai",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/654da595.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/654da595.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Uruguai",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Uruguai — versão tailandesa da seleção de Uruguai. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.6,
+    "reviews": 315,
+    "soldCount": 546
+  },
+  {
+    "id": 163,
+    "name": "Camisa Uruguai",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/90e46550.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/90e46550.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Uruguai",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Uruguai — versão tailandesa da seleção de Uruguai. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.6,
+    "reviews": 116,
+    "soldCount": 294
+  },
+  {
+    "id": 164,
+    "name": "Camisa Uruguai",
+    "price": 80,
+    "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/bad7fde8.jpg",
+    "images": [
+      "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Uruguai/bad7fde8.jpg"
+    ],
+    "category": "Camisas",
+    "team": "Uruguai",
+    "sizes": [
+      "P",
+      "M",
+      "G",
+      "GG",
+      "XGG"
+    ],
+    "description": "Camisa Uruguai — versão tailandesa da seleção de Uruguai. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "features": [
+      "Versão tailandesa premium",
+      "Tecido com tecnologia de absorção de suor",
+      "Escudo bordado em alta qualidade",
+      "Corte moderno e costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.9,
+    "reviews": 218,
+    "soldCount": 505
   }
 ];
 

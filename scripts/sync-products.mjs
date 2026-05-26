@@ -36,6 +36,38 @@ const ROUPAS_DIR = path.join(ROOT, "public", "ROUPAS");
 const OVERRIDES  = path.join(ROOT, "src", "lib", "products-overrides.json");
 const CATALOG    = path.join(ROOT, "src", "lib", "products-catalog.ts");
 
+// Lê NEXT_PUBLIC_SUPABASE_IMAGES_URL do .env.local (se existir)
+const envPath = path.join(ROOT, ".env.local");
+let IMAGES_BASE_URL = "";
+if (fs.existsSync(envPath)) {
+  fs.readFileSync(envPath, "utf8").split("\n").forEach(line => {
+    const [key, ...rest] = line.split("=");
+    if (key?.trim() === "NEXT_PUBLIC_SUPABASE_IMAGES_URL" && rest.length) {
+      IMAGES_BASE_URL = rest.join("=").trim();
+    }
+  });
+}
+
+// Normaliza o caminho igual ao upload-images.mjs
+function sanitizePath(p) {
+  return p
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-zA-Z0-9/_.\-]/g, "_")
+    .replace(/__+/g, "_");
+}
+
+// Se tiver URL do Supabase, usa ela; senão usa caminho local /ROUPAS/...
+function toImageUrl(localPath) {
+  // localPath ex: "/ROUPAS/Brasil/arquivo.jpg"
+  if (IMAGES_BASE_URL) {
+    const relative = localPath.replace(/^\/ROUPAS\//, "");
+    const safe = sanitizePath(relative);
+    return `${IMAGES_BASE_URL}/${safe}`;
+  }
+  return localPath;
+}
+
 const IMAGE_EXT     = new Set([".jpg", ".jpeg", ".png", ".webp", ".avif", ".gif"]);
 const SIZES_DEFAULT = ["P", "M", "G", "GG", "XGG"];
 
@@ -142,7 +174,7 @@ for (const teamFolder of teamFolders) {
       const subImages = fs.readdirSync(entryPath)
         .filter(isImageFile)
         .sort()
-        .map(f => `/ROUPAS/${teamFolder}/${entry}/${f}`);
+        .map(f => toImageUrl(`/ROUPAS/${teamFolder}/${entry}/${f}`));
 
       if (subImages.length > 0) {
         subfolderProducts.push({ folderName: entry, images: subImages });
@@ -174,7 +206,7 @@ for (const teamFolder of teamFolders) {
   // ── Process loose files (with MD5 dedup) ─────────────────
   for (const { file, absPath } of looseImages) {
     const hash      = md5(absPath);
-    const imagePath = `/ROUPAS/${teamFolder}/${file}`;
+    const imagePath = toImageUrl(`/ROUPAS/${teamFolder}/${file}`);
 
     if (md5Map.has(hash)) {
       // Duplicate detected — add as extra image to existing product
