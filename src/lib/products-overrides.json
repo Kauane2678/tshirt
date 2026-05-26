@@ -1,0 +1,68 @@
+{
+  "/ROUPAS/Brasil/2024 Brasil Home.jpg": {
+    "name": "Camisa Brasil Home 2024 — Tailandesa",
+    "price": 80.00,
+    "badge": "Lançamento",
+    "description": "A nova camisa da Seleção Brasileira para a temporada 2024 em versão tailandesa premium. O design mais moderno da história do uniforme canarinho, com gola V refinada, acabamento verde e detalhes dourados no escudo. Qualidade altíssima e caimento idêntico ao modelo de campo.",
+    "features": [
+      "Versão tailandesa premium com tecido de absorção de suor",
+      "Escudo CBF bordado com fio dourado",
+      "Gola V com acabamento em verde e azul",
+      "Corte moderno com costura reforçada",
+      "Material: 100% poliéster"
+    ],
+    "rating": 4.9,
+    "reviews": 234,
+    "soldCount": 1842
+  },
+  "/ROUPAS/Brasil/22_23 Brasil Home.jpg": {
+    "name": "Camisa Brasil Home 22/23",
+    "price": 80.00,
+    "badge": "Promoção",
+    "description": "A camisa que o Brasil usou em campo durante a temporada 2022/23, incluindo as eliminatórias da Copa do Mundo. O amarelo vibrante com gola verde é o visual mais icônico do futebol mundial.",
+    "rating": 4.8,
+    "reviews": 312,
+    "soldCount": 2567
+  },
+  "/ROUPAS/Brasil/22_23 Brasil Away.jpg": {
+    "name": "Camisa Brasil Away 22/23 — Edição Copa",
+    "price": 80.00,
+    "badge": "Promoção",
+    "description": "Versão tailandesa da camisa reserva mais comentada da Copa do Mundo do Qatar 2022. O azul profundo com a incrível estampa de onça-pintada nas mangas quebrou paradigmas no design esportivo.",
+    "features": [
+      "Estampa exclusiva de onça-pintada nas mangas",
+      "Azul profundo com detalhes em amarelo e verde",
+      "Gola redonda com acabamento em verde",
+      "Colecionável da Copa do Mundo Qatar 2022",
+      "Tecido tailandês de alta qualidade"
+    ],
+    "rating": 4.9,
+    "reviews": 421,
+    "soldCount": 3891
+  },
+  "/ROUPAS/Brasil/22-23 Brazilian goalkeeper.jpg": {
+    "name": "Camisa Brasil Goleiro 22/23",
+    "price": 80.00,
+    "badge": "Goleiro",
+    "rating": 4.7,
+    "reviews": 145,
+    "soldCount": 876
+  },
+  "/ROUPAS/Brasil/Retro Brazil 1998 Home_.jpg": {
+    "name": "Retrô Brasil 1998 Home — #9 Ronaldo",
+    "price": 80.00,
+    "badge": "Retrô",
+    "description": "O número 9. Ronaldo. França 1998. Uma peça que vai além do futebol — é cultura, é história, é paixão.",
+    "rating": 5.0,
+    "reviews": 389,
+    "soldCount": 3241
+  },
+  "/ROUPAS/Brasil/Edição especial 23-24.jpg": {
+    "name": "Camisa Brasil Edição Especial 23/24",
+    "price": 80.00,
+    "badge": "Edição Limitada",
+    "rating": 4.7,
+    "reviews": 112,
+    "soldCount": 534
+  }
+}
