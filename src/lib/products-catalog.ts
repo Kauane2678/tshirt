@@ -1,7 +1,7 @@
 // ⚠️  ARQUIVO GERADO AUTOMATICAMENTE — não edite manualmente
 // Execute: npm run sync-products para atualizar
 // Para customizar preços/descrições, edite: src/lib/products-overrides.json
-// Gerado em: 26/05/2026, 17:09:49 · 164 produtos · 1 duplicatas agrupadas
+// Gerado em: 26/05/2026, 17:19:02 · 164 produtos · 1 duplicatas agrupadas
 
 import type { Product } from "./data";
 
@@ -31,9 +31,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 138,
-    "soldCount": 2084
+    "rating": 5,
+    "reviews": 172,
+    "soldCount": 1083
   },
   {
     "id": 2,
@@ -60,9 +60,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 244,
-    "soldCount": 2068
+    "rating": 4.8,
+    "reviews": 110,
+    "soldCount": 347
   },
   {
     "id": 3,
@@ -89,9 +89,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 167,
-    "soldCount": 1981
+    "rating": 4.9,
+    "reviews": 312,
+    "soldCount": 549
   },
   {
     "id": 4,
@@ -118,9 +118,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 180,
-    "soldCount": 1185
+    "rating": 4.7,
+    "reviews": 173,
+    "soldCount": 190
   },
   {
     "id": 5,
@@ -147,9 +147,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 183,
-    "soldCount": 474
+    "rating": 5,
+    "reviews": 336,
+    "soldCount": 2094
   },
   {
     "id": 6,
@@ -176,9 +176,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 325,
-    "soldCount": 110
+    "rating": 4.8,
+    "reviews": 146,
+    "soldCount": 1192
   },
   {
     "id": 7,
@@ -205,9 +205,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 111,
-    "soldCount": 271
+    "rating": 4.6,
+    "reviews": 80,
+    "soldCount": 1744
   },
   {
     "id": 8,
@@ -234,9 +234,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 255,
-    "soldCount": 426
+    "rating": 4.6,
+    "reviews": 290,
+    "soldCount": 1659
   },
   {
     "id": 9,
@@ -263,9 +263,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 219,
-    "soldCount": 380
+    "rating": 4.7,
+    "reviews": 276,
+    "soldCount": 1454
   },
   {
     "id": 10,
@@ -292,9 +292,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 5,
-    "reviews": 296,
-    "soldCount": 1090
+    "rating": 4.6,
+    "reviews": 103,
+    "soldCount": 1070
   },
   {
     "id": 11,
@@ -321,9 +321,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 141,
-    "soldCount": 102
+    "rating": 5,
+    "reviews": 288,
+    "soldCount": 692
   },
   {
     "id": 12,
@@ -350,9 +350,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 5,
-    "reviews": 121,
-    "soldCount": 319
+    "rating": 4.5,
+    "reviews": 141,
+    "soldCount": 465
   },
   {
     "id": 13,
@@ -380,8 +380,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.9,
-    "reviews": 343,
-    "soldCount": 1824
+    "reviews": 216,
+    "soldCount": 1215
   },
   {
     "id": 14,
@@ -408,9 +408,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 210,
-    "soldCount": 644
+    "rating": 4.9,
+    "reviews": 208,
+    "soldCount": 902
   },
   {
     "id": 15,
@@ -437,9 +437,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 318,
-    "soldCount": 1249
+    "rating": 4.7,
+    "reviews": 59,
+    "soldCount": 351
   },
   {
     "id": 16,
@@ -466,9 +466,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 71,
-    "soldCount": 1025
+    "rating": 4.9,
+    "reviews": 192,
+    "soldCount": 589
   },
   {
     "id": 17,
@@ -495,9 +495,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 140,
-    "soldCount": 1719
+    "rating": 4.9,
+    "reviews": 302,
+    "soldCount": 1663
   },
   {
     "id": 18,
@@ -524,9 +524,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 225,
-    "soldCount": 1616
+    "rating": 5,
+    "reviews": 257,
+    "soldCount": 178
   },
   {
     "id": 19,
@@ -553,9 +553,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 254,
-    "soldCount": 526
+    "rating": 4.8,
+    "reviews": 70,
+    "soldCount": 1378
   },
   {
     "id": 20,
@@ -583,8 +583,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.9,
-    "reviews": 343,
-    "soldCount": 1536
+    "reviews": 218,
+    "soldCount": 1228
   },
   {
     "id": 21,
@@ -611,9 +611,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 326,
-    "soldCount": 1860
+    "rating": 4.8,
+    "reviews": 275,
+    "soldCount": 842
   },
   {
     "id": 22,
@@ -640,9 +640,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 58,
-    "soldCount": 1847
+    "rating": 5,
+    "reviews": 139,
+    "soldCount": 973
   },
   {
     "id": 23,
@@ -669,9 +669,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 284,
-    "soldCount": 259
+    "rating": 4.9,
+    "reviews": 168,
+    "soldCount": 2042
   },
   {
     "id": 24,
@@ -700,8 +700,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 5,
-    "reviews": 200,
-    "soldCount": 759
+    "reviews": 130,
+    "soldCount": 2095
   },
   {
     "id": 25,
@@ -730,8 +730,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.9,
-    "reviews": 182,
-    "soldCount": 713
+    "reviews": 153,
+    "soldCount": 804
   },
   {
     "id": 26,
@@ -759,9 +759,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 91,
-    "soldCount": 1990
+    "rating": 4.8,
+    "reviews": 327,
+    "soldCount": 1760
   },
   {
     "id": 27,
@@ -790,8 +790,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.7,
-    "reviews": 238,
-    "soldCount": 541
+    "reviews": 75,
+    "soldCount": 1033
   },
   {
     "id": 28,
@@ -819,8 +819,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 5,
-    "reviews": 110,
-    "soldCount": 164
+    "reviews": 132,
+    "soldCount": 1986
   },
   {
     "id": 29,
@@ -847,9 +847,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 122,
-    "soldCount": 694
+    "rating": 4.6,
+    "reviews": 189,
+    "soldCount": 1665
   },
   {
     "id": 30,
@@ -876,9 +876,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 270,
-    "soldCount": 622
+    "rating": 4.6,
+    "reviews": 247,
+    "soldCount": 103
   },
   {
     "id": 31,
@@ -905,9 +905,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 302,
-    "soldCount": 223
+    "rating": 4.8,
+    "reviews": 337,
+    "soldCount": 1095
   },
   {
     "id": 32,
@@ -935,8 +935,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.7,
-    "reviews": 172,
-    "soldCount": 1272
+    "reviews": 280,
+    "soldCount": 1133
   },
   {
     "id": 33,
@@ -963,9 +963,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 153,
-    "soldCount": 1820
+    "rating": 4.6,
+    "reviews": 193,
+    "soldCount": 133
   },
   {
     "id": 34,
@@ -993,8 +993,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.6,
-    "reviews": 285,
-    "soldCount": 505
+    "reviews": 159,
+    "soldCount": 465
   },
   {
     "id": 35,
@@ -1021,9 +1021,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 208,
-    "soldCount": 1503
+    "rating": 4.8,
+    "reviews": 279,
+    "soldCount": 1898
   },
   {
     "id": 36,
@@ -1050,9 +1050,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 180,
-    "soldCount": 598
+    "rating": 4.7,
+    "reviews": 105,
+    "soldCount": 1483
   },
   {
     "id": 37,
@@ -1080,8 +1080,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.8,
-    "reviews": 111,
-    "soldCount": 1406
+    "reviews": 172,
+    "soldCount": 1335
   },
   {
     "id": 38,
@@ -1109,8 +1109,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.7,
-    "reviews": 205,
-    "soldCount": 682
+    "reviews": 246,
+    "soldCount": 1640
   },
   {
     "id": 39,
@@ -1137,9 +1137,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 315,
-    "soldCount": 597
+    "rating": 4.7,
+    "reviews": 212,
+    "soldCount": 1337
   },
   {
     "id": 40,
@@ -1166,9 +1166,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 302,
-    "soldCount": 1037
+    "rating": 5,
+    "reviews": 193,
+    "soldCount": 1745
   },
   {
     "id": 41,
@@ -1196,8 +1196,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.7,
-    "reviews": 287,
-    "soldCount": 1342
+    "reviews": 57,
+    "soldCount": 1374
   },
   {
     "id": 42,
@@ -1224,9 +1224,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 234,
-    "soldCount": 150
+    "rating": 4.5,
+    "reviews": 187,
+    "soldCount": 2053
   },
   {
     "id": 43,
@@ -1254,9 +1254,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 300,
-    "soldCount": 423
+    "rating": 5,
+    "reviews": 171,
+    "soldCount": 1366
   },
   {
     "id": 44,
@@ -1284,9 +1284,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 214,
-    "soldCount": 634
+    "rating": 4.5,
+    "reviews": 264,
+    "soldCount": 766
   },
   {
     "id": 45,
@@ -1313,9 +1313,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 204,
-    "soldCount": 1553
+    "rating": 4.6,
+    "reviews": 340,
+    "soldCount": 780
   },
   {
     "id": 46,
@@ -1342,9 +1342,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 295,
-    "soldCount": 424
+    "rating": 4.9,
+    "reviews": 179,
+    "soldCount": 2054
   },
   {
     "id": 47,
@@ -1371,9 +1371,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 75,
-    "soldCount": 2082
+    "rating": 4.8,
+    "reviews": 71,
+    "soldCount": 1700
   },
   {
     "id": 48,
@@ -1400,9 +1400,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 247,
-    "soldCount": 545
+    "rating": 4.9,
+    "reviews": 225,
+    "soldCount": 1897
   },
   {
     "id": 49,
@@ -1429,9 +1429,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 214,
-    "soldCount": 2078
+    "rating": 4.9,
+    "reviews": 208,
+    "soldCount": 1021
   },
   {
     "id": 50,
@@ -1459,8 +1459,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.7,
-    "reviews": 324,
-    "soldCount": 1716
+    "reviews": 148,
+    "soldCount": 1160
   },
   {
     "id": 51,
@@ -1487,9 +1487,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 340,
-    "soldCount": 970
+    "rating": 4.6,
+    "reviews": 282,
+    "soldCount": 105
   },
   {
     "id": 52,
@@ -1517,8 +1517,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.5,
-    "reviews": 87,
-    "soldCount": 1034
+    "reviews": 174,
+    "soldCount": 1509
   },
   {
     "id": 53,
@@ -1545,9 +1545,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 217,
-    "soldCount": 1819
+    "rating": 4.6,
+    "reviews": 279,
+    "soldCount": 1755
   },
   {
     "id": 54,
@@ -1575,9 +1575,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 219,
-    "soldCount": 361
+    "rating": 4.9,
+    "reviews": 186,
+    "soldCount": 1721
   },
   {
     "id": 55,
@@ -1605,9 +1605,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 5,
-    "reviews": 155,
-    "soldCount": 1503
+    "rating": 4.8,
+    "reviews": 278,
+    "soldCount": 1438
   },
   {
     "id": 56,
@@ -1634,9 +1634,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 88,
-    "soldCount": 900
+    "rating": 4.9,
+    "reviews": 55,
+    "soldCount": 135
   },
   {
     "id": 57,
@@ -1663,9 +1663,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 5,
-    "reviews": 316,
-    "soldCount": 207
+    "rating": 4.9,
+    "reviews": 284,
+    "soldCount": 1041
   },
   {
     "id": 58,
@@ -1693,9 +1693,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 207,
-    "soldCount": 1775
+    "rating": 4.7,
+    "reviews": 58,
+    "soldCount": 1579
   },
   {
     "id": 59,
@@ -1723,9 +1723,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 201,
-    "soldCount": 1361
+    "rating": 4.6,
+    "reviews": 261,
+    "soldCount": 1511
   },
   {
     "id": 60,
@@ -1752,9 +1752,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 292,
-    "soldCount": 1676
+    "rating": 4.9,
+    "reviews": 147,
+    "soldCount": 1764
   },
   {
     "id": 61,
@@ -1781,9 +1781,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 232,
-    "soldCount": 1466
+    "rating": 4.9,
+    "reviews": 256,
+    "soldCount": 910
   },
   {
     "id": 62,
@@ -1810,9 +1810,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 295,
-    "soldCount": 782
+    "rating": 4.5,
+    "reviews": 334,
+    "soldCount": 897
   },
   {
     "id": 63,
@@ -1839,9 +1839,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 316,
-    "soldCount": 371
+    "rating": 5,
+    "reviews": 166,
+    "soldCount": 658
   },
   {
     "id": 64,
@@ -1868,9 +1868,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 110,
-    "soldCount": 250
+    "rating": 5,
+    "reviews": 61,
+    "soldCount": 836
   },
   {
     "id": 65,
@@ -1898,8 +1898,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.6,
-    "reviews": 89,
-    "soldCount": 257
+    "reviews": 100,
+    "soldCount": 1874
   },
   {
     "id": 66,
@@ -1928,8 +1928,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.8,
-    "reviews": 227,
-    "soldCount": 206
+    "reviews": 153,
+    "soldCount": 1065
   },
   {
     "id": 67,
@@ -1956,9 +1956,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 319,
-    "soldCount": 302
+    "rating": 4.5,
+    "reviews": 234,
+    "soldCount": 2099
   },
   {
     "id": 68,
@@ -1986,9 +1986,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 71,
-    "soldCount": 723
+    "rating": 4.6,
+    "reviews": 330,
+    "soldCount": 1780
   },
   {
     "id": 69,
@@ -2015,9 +2015,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 321,
-    "soldCount": 731
+    "rating": 4.8,
+    "reviews": 175,
+    "soldCount": 1652
   },
   {
     "id": 70,
@@ -2044,9 +2044,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 5,
-    "reviews": 323,
-    "soldCount": 1664
+    "rating": 4.7,
+    "reviews": 252,
+    "soldCount": 560
   },
   {
     "id": 71,
@@ -2074,8 +2074,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.5,
-    "reviews": 226,
-    "soldCount": 1810
+    "reviews": 252,
+    "soldCount": 399
   },
   {
     "id": 72,
@@ -2102,9 +2102,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 201,
-    "soldCount": 1000
+    "rating": 4.8,
+    "reviews": 121,
+    "soldCount": 2071
   },
   {
     "id": 73,
@@ -2131,9 +2131,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 158,
-    "soldCount": 1342
+    "rating": 4.8,
+    "reviews": 132,
+    "soldCount": 911
   },
   {
     "id": 74,
@@ -2160,9 +2160,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 97,
-    "soldCount": 142
+    "rating": 5,
+    "reviews": 90,
+    "soldCount": 140
   },
   {
     "id": 75,
@@ -2190,8 +2190,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.6,
-    "reviews": 271,
-    "soldCount": 1369
+    "reviews": 70,
+    "soldCount": 525
   },
   {
     "id": 76,
@@ -2219,8 +2219,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.8,
-    "reviews": 192,
-    "soldCount": 1291
+    "reviews": 325,
+    "soldCount": 2027
   },
   {
     "id": 77,
@@ -2248,9 +2248,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 222,
-    "soldCount": 101
+    "rating": 4.9,
+    "reviews": 237,
+    "soldCount": 680
   },
   {
     "id": 78,
@@ -2278,9 +2278,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 121,
-    "soldCount": 2051
+    "rating": 4.8,
+    "reviews": 118,
+    "soldCount": 1652
   },
   {
     "id": 79,
@@ -2308,9 +2308,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 79,
-    "soldCount": 698
+    "rating": 4.6,
+    "reviews": 113,
+    "soldCount": 2082
   },
   {
     "id": 80,
@@ -2337,9 +2337,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 202,
-    "soldCount": 1007
+    "rating": 4.7,
+    "reviews": 101,
+    "soldCount": 2097
   },
   {
     "id": 81,
@@ -2366,9 +2366,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 299,
-    "soldCount": 1284
+    "rating": 4.9,
+    "reviews": 239,
+    "soldCount": 590
   },
   {
     "id": 82,
@@ -2396,8 +2396,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.8,
-    "reviews": 51,
-    "soldCount": 2000
+    "reviews": 138,
+    "soldCount": 1994
   },
   {
     "id": 83,
@@ -2424,9 +2424,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 157,
-    "soldCount": 1871
+    "rating": 4.6,
+    "reviews": 195,
+    "soldCount": 1283
   },
   {
     "id": 84,
@@ -2454,9 +2454,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 204,
-    "soldCount": 428
+    "rating": 5,
+    "reviews": 233,
+    "soldCount": 1364
   },
   {
     "id": 85,
@@ -2484,9 +2484,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 236,
-    "soldCount": 319
+    "rating": 4.9,
+    "reviews": 249,
+    "soldCount": 1400
   },
   {
     "id": 86,
@@ -2514,9 +2514,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 107,
-    "soldCount": 2043
+    "rating": 4.5,
+    "reviews": 227,
+    "soldCount": 367
   },
   {
     "id": 87,
@@ -2544,9 +2544,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 272,
-    "soldCount": 1121
+    "rating": 4.6,
+    "reviews": 132,
+    "soldCount": 303
   },
   {
     "id": 88,
@@ -2573,9 +2573,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 86,
-    "soldCount": 982
+    "rating": 4.6,
+    "reviews": 245,
+    "soldCount": 1289
   },
   {
     "id": 89,
@@ -2602,9 +2602,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 120,
-    "soldCount": 1809
+    "rating": 4.6,
+    "reviews": 195,
+    "soldCount": 363
   },
   {
     "id": 90,
@@ -2631,9 +2631,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 297,
-    "soldCount": 991
+    "rating": 4.8,
+    "reviews": 73,
+    "soldCount": 147
   },
   {
     "id": 91,
@@ -2660,9 +2660,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 57,
-    "soldCount": 558
+    "rating": 4.6,
+    "reviews": 283,
+    "soldCount": 1613
   },
   {
     "id": 92,
@@ -2689,9 +2689,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 223,
-    "soldCount": 301
+    "rating": 5,
+    "reviews": 327,
+    "soldCount": 919
   },
   {
     "id": 93,
@@ -2719,8 +2719,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.7,
-    "reviews": 246,
-    "soldCount": 1580
+    "reviews": 158,
+    "soldCount": 673
   },
   {
     "id": 94,
@@ -2748,8 +2748,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.7,
-    "reviews": 126,
-    "soldCount": 232
+    "reviews": 138,
+    "soldCount": 1808
   },
   {
     "id": 95,
@@ -2776,9 +2776,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 179,
-    "soldCount": 368
+    "rating": 4.5,
+    "reviews": 304,
+    "soldCount": 905
   },
   {
     "id": 96,
@@ -2805,9 +2805,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 152,
-    "soldCount": 772
+    "rating": 4.5,
+    "reviews": 343,
+    "soldCount": 1313
   },
   {
     "id": 97,
@@ -2834,9 +2834,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 237,
-    "soldCount": 1142
+    "rating": 4.9,
+    "reviews": 331,
+    "soldCount": 652
   },
   {
     "id": 98,
@@ -2863,9 +2863,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 149,
-    "soldCount": 1363
+    "rating": 4.7,
+    "reviews": 73,
+    "soldCount": 1431
   },
   {
     "id": 99,
@@ -2893,9 +2893,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 173,
-    "soldCount": 269
+    "rating": 4.8,
+    "reviews": 120,
+    "soldCount": 1681
   },
   {
     "id": 100,
@@ -2923,8 +2923,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.9,
-    "reviews": 91,
-    "soldCount": 1573
+    "reviews": 60,
+    "soldCount": 150
   },
   {
     "id": 101,
@@ -2951,9 +2951,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 256,
-    "soldCount": 1819
+    "rating": 4.6,
+    "reviews": 198,
+    "soldCount": 773
   },
   {
     "id": 102,
@@ -2980,9 +2980,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 70,
-    "soldCount": 918
+    "rating": 4.6,
+    "reviews": 256,
+    "soldCount": 222
   },
   {
     "id": 103,
@@ -3010,8 +3010,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.7,
-    "reviews": 165,
-    "soldCount": 754
+    "reviews": 149,
+    "soldCount": 444
   },
   {
     "id": 104,
@@ -3038,9 +3038,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 200,
-    "soldCount": 1550
+    "rating": 4.7,
+    "reviews": 168,
+    "soldCount": 1960
   },
   {
     "id": 105,
@@ -3067,9 +3067,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 233,
-    "soldCount": 1367
+    "rating": 4.6,
+    "reviews": 215,
+    "soldCount": 1005
   },
   {
     "id": 106,
@@ -3096,9 +3096,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 69,
-    "soldCount": 2022
+    "rating": 4.9,
+    "reviews": 347,
+    "soldCount": 1036
   },
   {
     "id": 107,
@@ -3125,9 +3125,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 5,
-    "reviews": 167,
-    "soldCount": 243
+    "rating": 4.5,
+    "reviews": 271,
+    "soldCount": 764
   },
   {
     "id": 108,
@@ -3154,9 +3154,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 285,
-    "soldCount": 1153
+    "rating": 4.7,
+    "reviews": 146,
+    "soldCount": 1419
   },
   {
     "id": 109,
@@ -3184,8 +3184,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.8,
-    "reviews": 171,
-    "soldCount": 209
+    "reviews": 115,
+    "soldCount": 908
   },
   {
     "id": 110,
@@ -3212,9 +3212,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 110,
-    "soldCount": 1474
+    "rating": 4.8,
+    "reviews": 312,
+    "soldCount": 1046
   },
   {
     "id": 111,
@@ -3242,9 +3242,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 133,
-    "soldCount": 1644
+    "rating": 4.8,
+    "reviews": 75,
+    "soldCount": 800
   },
   {
     "id": 112,
@@ -3271,9 +3271,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 148,
-    "soldCount": 684
+    "rating": 4.9,
+    "reviews": 114,
+    "soldCount": 625
   },
   {
     "id": 113,
@@ -3302,8 +3302,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.6,
-    "reviews": 50,
-    "soldCount": 556
+    "reviews": 306,
+    "soldCount": 818
   },
   {
     "id": 114,
@@ -3330,9 +3330,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 61,
-    "soldCount": 236
+    "rating": 4.7,
+    "reviews": 253,
+    "soldCount": 200
   },
   {
     "id": 115,
@@ -3359,14 +3359,14 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 284,
-    "soldCount": 1993
+    "rating": 4.6,
+    "reviews": 327,
+    "soldCount": 1395
   },
   {
     "id": 116,
-    "name": "Camisa Marrocos",
-    "price": 80,
+    "name": "🧪 PRODUTO TESTE — R$1",
+    "price": 1,
     "image": "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Marrocos/E21278A06026A340F7B291F09D11115D.jpg",
     "images": [
       "https://firjayjwtlgnnanpmdmg.supabase.co/storage/v1/object/public/roupas/Marrocos/E21278A06026A340F7B291F09D11115D.jpg"
@@ -3380,7 +3380,8 @@ export const catalogProducts: Product[] = [
       "GG",
       "XGG"
     ],
-    "description": "Camisa Marrocos — versão tailandesa da seleção de Marrocos. Tecido de alta qualidade com tecnologia de absorção de suor. Perfeita para usar nos estádios ou no dia a dia com muito estilo e identidade.",
+    "badge": "Teste",
+    "description": "Produto de teste — remover após validar pagamento.",
     "features": [
       "Versão tailandesa premium",
       "Tecido com tecnologia de absorção de suor",
@@ -3388,9 +3389,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 171,
-    "soldCount": 1529
+    "rating": 5,
+    "reviews": 1,
+    "soldCount": 1
   },
   {
     "id": 117,
@@ -3417,9 +3418,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 244,
-    "soldCount": 1020
+    "rating": 4.8,
+    "reviews": 276,
+    "soldCount": 265
   },
   {
     "id": 118,
@@ -3447,8 +3448,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 5,
-    "reviews": 295,
-    "soldCount": 1072
+    "reviews": 104,
+    "soldCount": 1067
   },
   {
     "id": 119,
@@ -3476,8 +3477,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.6,
-    "reviews": 310,
-    "soldCount": 1848
+    "reviews": 285,
+    "soldCount": 1116
   },
   {
     "id": 120,
@@ -3504,9 +3505,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 176,
-    "soldCount": 1338
+    "rating": 4.9,
+    "reviews": 241,
+    "soldCount": 1792
   },
   {
     "id": 121,
@@ -3533,9 +3534,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 259,
-    "soldCount": 1179
+    "rating": 4.9,
+    "reviews": 192,
+    "soldCount": 972
   },
   {
     "id": 122,
@@ -3562,9 +3563,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 172,
-    "soldCount": 2092
+    "rating": 4.8,
+    "reviews": 78,
+    "soldCount": 173
   },
   {
     "id": 123,
@@ -3591,9 +3592,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 290,
-    "soldCount": 1607
+    "rating": 4.8,
+    "reviews": 192,
+    "soldCount": 1241
   },
   {
     "id": 124,
@@ -3620,9 +3621,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 181,
-    "soldCount": 545
+    "rating": 5,
+    "reviews": 288,
+    "soldCount": 1363
   },
   {
     "id": 125,
@@ -3649,9 +3650,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 86,
-    "soldCount": 150
+    "rating": 4.9,
+    "reviews": 294,
+    "soldCount": 756
   },
   {
     "id": 126,
@@ -3678,9 +3679,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 241,
-    "soldCount": 981
+    "rating": 4.7,
+    "reviews": 206,
+    "soldCount": 1954
   },
   {
     "id": 127,
@@ -3707,9 +3708,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 170,
-    "soldCount": 310
+    "rating": 4.8,
+    "reviews": 258,
+    "soldCount": 1029
   },
   {
     "id": 128,
@@ -3736,9 +3737,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 299,
-    "soldCount": 320
+    "rating": 4.9,
+    "reviews": 255,
+    "soldCount": 2076
   },
   {
     "id": 129,
@@ -3765,9 +3766,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 181,
-    "soldCount": 200
+    "rating": 4.6,
+    "reviews": 303,
+    "soldCount": 1311
   },
   {
     "id": 130,
@@ -3795,8 +3796,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.8,
-    "reviews": 172,
-    "soldCount": 1638
+    "reviews": 337,
+    "soldCount": 1493
   },
   {
     "id": 131,
@@ -3823,9 +3824,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 56,
-    "soldCount": 475
+    "rating": 4.8,
+    "reviews": 261,
+    "soldCount": 826
   },
   {
     "id": 132,
@@ -3852,9 +3853,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 317,
-    "soldCount": 449
+    "rating": 4.7,
+    "reviews": 227,
+    "soldCount": 1824
   },
   {
     "id": 133,
@@ -3882,9 +3883,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 189,
-    "soldCount": 1389
+    "rating": 4.7,
+    "reviews": 66,
+    "soldCount": 1051
   },
   {
     "id": 134,
@@ -3912,9 +3913,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 343,
-    "soldCount": 715
+    "rating": 4.6,
+    "reviews": 121,
+    "soldCount": 425
   },
   {
     "id": 135,
@@ -3941,9 +3942,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 293,
-    "soldCount": 1395
+    "rating": 4.6,
+    "reviews": 156,
+    "soldCount": 1813
   },
   {
     "id": 136,
@@ -3971,9 +3972,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 108,
-    "soldCount": 424
+    "rating": 4.7,
+    "reviews": 268,
+    "soldCount": 436
   },
   {
     "id": 137,
@@ -4002,8 +4003,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.8,
-    "reviews": 212,
-    "soldCount": 1399
+    "reviews": 66,
+    "soldCount": 1766
   },
   {
     "id": 138,
@@ -4032,8 +4033,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 5,
-    "reviews": 269,
-    "soldCount": 943
+    "reviews": 61,
+    "soldCount": 1114
   },
   {
     "id": 139,
@@ -4060,9 +4061,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 158,
-    "soldCount": 405
+    "rating": 4.9,
+    "reviews": 133,
+    "soldCount": 1944
   },
   {
     "id": 140,
@@ -4089,9 +4090,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.9,
-    "reviews": 280,
-    "soldCount": 2007
+    "rating": 4.7,
+    "reviews": 342,
+    "soldCount": 873
   },
   {
     "id": 141,
@@ -4118,9 +4119,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 212,
-    "soldCount": 1905
+    "rating": 4.5,
+    "reviews": 153,
+    "soldCount": 338
   },
   {
     "id": 142,
@@ -4147,9 +4148,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 5,
-    "reviews": 131,
-    "soldCount": 494
+    "rating": 4.8,
+    "reviews": 168,
+    "soldCount": 1859
   },
   {
     "id": 143,
@@ -4176,9 +4177,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 339,
-    "soldCount": 1748
+    "rating": 4.5,
+    "reviews": 82,
+    "soldCount": 979
   },
   {
     "id": 144,
@@ -4205,9 +4206,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 241,
-    "soldCount": 423
+    "rating": 5,
+    "reviews": 69,
+    "soldCount": 246
   },
   {
     "id": 145,
@@ -4235,8 +4236,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.9,
-    "reviews": 174,
-    "soldCount": 1162
+    "reviews": 348,
+    "soldCount": 592
   },
   {
     "id": 146,
@@ -4263,9 +4264,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 186,
-    "soldCount": 621
+    "rating": 4.8,
+    "reviews": 64,
+    "soldCount": 1019
   },
   {
     "id": 147,
@@ -4292,9 +4293,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 300,
-    "soldCount": 1568
+    "rating": 4.9,
+    "reviews": 199,
+    "soldCount": 517
   },
   {
     "id": 148,
@@ -4321,9 +4322,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 250,
-    "soldCount": 1868
+    "rating": 4.9,
+    "reviews": 196,
+    "soldCount": 1786
   },
   {
     "id": 149,
@@ -4351,8 +4352,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.8,
-    "reviews": 327,
-    "soldCount": 849
+    "reviews": 84,
+    "soldCount": 1839
   },
   {
     "id": 150,
@@ -4379,9 +4380,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 78,
-    "soldCount": 1668
+    "rating": 5,
+    "reviews": 111,
+    "soldCount": 402
   },
   {
     "id": 151,
@@ -4408,9 +4409,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.5,
-    "reviews": 274,
-    "soldCount": 1050
+    "rating": 4.9,
+    "reviews": 77,
+    "soldCount": 1161
   },
   {
     "id": 152,
@@ -4437,9 +4438,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 321,
-    "soldCount": 2017
+    "rating": 4.6,
+    "reviews": 317,
+    "soldCount": 685
   },
   {
     "id": 153,
@@ -4466,9 +4467,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 321,
-    "soldCount": 761
+    "rating": 4.9,
+    "reviews": 272,
+    "soldCount": 1568
   },
   {
     "id": 154,
@@ -4495,9 +4496,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.6,
-    "reviews": 58,
-    "soldCount": 882
+    "rating": 4.9,
+    "reviews": 177,
+    "soldCount": 643
   },
   {
     "id": 155,
@@ -4525,8 +4526,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.6,
-    "reviews": 313,
-    "soldCount": 360
+    "reviews": 283,
+    "soldCount": 1026
   },
   {
     "id": 156,
@@ -4554,9 +4555,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 316,
-    "soldCount": 1107
+    "rating": 4.9,
+    "reviews": 201,
+    "soldCount": 1036
   },
   {
     "id": 157,
@@ -4583,9 +4584,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 239,
-    "soldCount": 820
+    "rating": 4.6,
+    "reviews": 320,
+    "soldCount": 739
   },
   {
     "id": 158,
@@ -4613,8 +4614,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.7,
-    "reviews": 170,
-    "soldCount": 1340
+    "reviews": 137,
+    "soldCount": 446
   },
   {
     "id": 159,
@@ -4642,8 +4643,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.9,
-    "reviews": 244,
-    "soldCount": 1089
+    "reviews": 160,
+    "soldCount": 1927
   },
   {
     "id": 160,
@@ -4670,9 +4671,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.7,
-    "reviews": 288,
-    "soldCount": 1299
+    "rating": 4.5,
+    "reviews": 232,
+    "soldCount": 1515
   },
   {
     "id": 161,
@@ -4699,9 +4700,9 @@ export const catalogProducts: Product[] = [
       "Corte moderno e costura reforçada",
       "Material: 100% poliéster"
     ],
-    "rating": 4.8,
-    "reviews": 272,
-    "soldCount": 1116
+    "rating": 4.9,
+    "reviews": 260,
+    "soldCount": 1870
   },
   {
     "id": 162,
@@ -4729,8 +4730,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.6,
-    "reviews": 107,
-    "soldCount": 240
+    "reviews": 88,
+    "soldCount": 1097
   },
   {
     "id": 163,
@@ -4758,8 +4759,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.8,
-    "reviews": 58,
-    "soldCount": 763
+    "reviews": 103,
+    "soldCount": 1767
   },
   {
     "id": 164,
@@ -4787,8 +4788,8 @@ export const catalogProducts: Product[] = [
       "Material: 100% poliéster"
     ],
     "rating": 4.6,
-    "reviews": 90,
-    "soldCount": 1632
+    "reviews": 164,
+    "soldCount": 1277
   }
 ];
 
