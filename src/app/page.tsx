@@ -292,7 +292,7 @@ export default function Home() {
         <Link href="/produtos?badge=Promoção" className="block group">
           <div className="relative overflow-hidden rounded-3xl shadow-2xl shadow-black/20 group-hover:shadow-black/30 transition-shadow duration-300">
             <Image
-              src="/Banner.png"
+              src="/Banner.jpeg"
               alt="Seleção de Ofertas - 3 camisas por R$129,90"
               width={1920}
               height={480}
