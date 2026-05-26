@@ -29,20 +29,6 @@ const benefits = [
 export default function Home() {
   return (
     <div>
-      {/* ── BANNER PROMOÇÃO ──────────────────────────── */}
-      <section aria-label="Banner promoção Seleção de Ofertas" className="w-full">
-        <Link href="/produtos?badge=Promoção">
-          <Image
-            src="/Banner.png"
-            alt="Seleção de Ofertas - 3 camisas por R$129,90"
-            width={1920}
-            height={400}
-            className="w-full h-auto object-cover cursor-pointer"
-            priority
-          />
-        </Link>
-      </section>
-
       {/* ── HERO ─────────────────────────────────────── */}
       <section className="relative overflow-hidden bg-gradient-to-br from-primary via-primary to-blue-900 min-h-[92vh] flex items-center">
         {/* Background — radial glow */}
@@ -194,12 +180,12 @@ export default function Home() {
 
             {/* Floating stats badge */}
             <div className="absolute top-[2%] left-[8%] z-30 bg-white text-foreground rounded-2xl px-4 py-3 shadow-2xl flex items-center gap-3 animate-card" style={{ animationDelay: "500ms" }}>
-              <div className="size-9 rounded-full bg-green-500 flex items-center justify-center flex-shrink-0">
-                <BadgeCheck className="size-5 text-white" aria-hidden="true" />
+              <div className="size-9 rounded-full bg-amber-500 flex items-center justify-center flex-shrink-0">
+                <span className="text-white font-display font-bold text-sm leading-none">3×</span>
               </div>
               <div>
-                <p className="text-[10px] text-muted-foreground font-semibold">ENTREGA EXPRESS</p>
-                <p className="text-xs font-bold">3–7 dias úteis</p>
+                <p className="text-[10px] text-amber-600 font-bold uppercase tracking-wider">🔥 Combo Especial</p>
+                <p className="text-xs font-bold">3 camisetas por <span className="text-amber-500">R$&nbsp;119,99</span></p>
               </div>
             </div>
 
@@ -301,78 +287,29 @@ export default function Home() {
 
       <Separator className="max-w-7xl mx-auto px-4 sm:px-6" />
 
-      {/* ── COMPRE JUNTO ────────────────────────────── */}
-      <section aria-label="Promoção compre junto" className="max-w-7xl mx-auto px-4 sm:px-6 py-16">
-        <div className="relative overflow-hidden rounded-3xl bg-gradient-to-br from-amber-500 via-orange-500 to-rose-500 text-white p-10 sm:p-14">
-          {/* Giant 3 background */}
-          <span
-            aria-hidden="true"
-            className="absolute -right-12 top-1/2 -translate-y-1/2 font-display text-[26rem] leading-none text-white/10 pointer-events-none select-none"
-          >
-            3
-          </span>
-
-          {/* Pulsing glow */}
-          <div aria-hidden="true" className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 size-96 rounded-full bg-yellow-300/20 blur-3xl animate-pulse" />
-
-          <div className="relative grid sm:grid-cols-2 gap-8 items-center">
-            <div>
-              <div className="inline-flex items-center gap-2 bg-white/20 backdrop-blur-sm rounded-full px-4 py-1.5 text-xs font-bold tracking-wider mb-5">
-                🔥 OFERTA RELÂMPAGO
-              </div>
-              <h2 className="font-display text-[clamp(3rem,7vw,5.5rem)] leading-[0.9] tracking-wider mb-4">
-                COMPRE<br/>
-                <span className="text-yellow-300">JUNTO</span>
-              </h2>
-              <p className="text-white/90 text-lg leading-relaxed mb-6 font-medium">
-                Leve <strong className="text-yellow-300">3 camisetas</strong> tailandesas por apenas
-              </p>
-              <div className="flex items-baseline gap-3 mb-6">
-                <span className="font-display text-7xl sm:text-8xl tracking-wider text-yellow-300 leading-none drop-shadow-2xl">
-                  R$&nbsp;119
-                </span>
-                <span className="font-display text-3xl text-yellow-300/80">,99</span>
-              </div>
-              <p className="text-white/80 text-sm mb-6">
-                ≈ R$ 40 cada · economia de mais de <strong className="text-yellow-300">R$ 700</strong> em 3 unidades
-              </p>
-
-              <Link
-                href="/produtos"
-                className={cn(
-                  buttonVariants({ size: "lg" }),
-                  "bg-white text-orange-600 hover:bg-yellow-300 hover:text-orange-700 font-bold px-8 h-13 text-sm rounded-full shadow-2xl shadow-black/30"
-                )}
-              >
-                Montar meu combo
-                <ArrowRight data-icon="inline-end" aria-hidden="true" className="size-4" />
-              </Link>
-            </div>
-
-            {/* Right: 3 shirts */}
-            <div className="relative h-72 hidden sm:block">
-              {newArrivals.slice(0, 3).map((p, i) => (
-                <div
-                  key={p.id}
-                  className="absolute size-48 rounded-2xl overflow-hidden shadow-2xl ring-2 ring-white/30"
-                  style={{
-                    top:    `${i * 14}%`,
-                    left:   `${i * 18}%`,
-                    transform: `rotate(${(i - 1) * 8}deg)`,
-                    zIndex:  10 - i,
-                  }}
-                >
-                  <Image src={p.image} alt={p.name} fill sizes="192px" className="object-cover"/>
-                </div>
-              ))}
-              {/* Floating tag */}
-              <div className="absolute -top-4 -right-4 z-20 bg-yellow-300 text-orange-700 rounded-2xl px-4 py-2 shadow-2xl rotate-[8deg]">
-                <p className="text-[10px] font-bold uppercase tracking-wider">Economize</p>
-                <p className="font-display text-2xl tracking-wider leading-none">R$ 700+</p>
-              </div>
+      {/* ── BANNER SELEÇÃO DE OFERTAS ─────────────────── */}
+      <section aria-label="Seleção de Ofertas" className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
+        <Link href="/produtos?badge=Promoção" className="block group">
+          <div className="relative overflow-hidden rounded-3xl shadow-2xl shadow-black/20 group-hover:shadow-black/30 transition-shadow duration-300">
+            <Image
+              src="/Banner.png"
+              alt="Seleção de Ofertas - 3 camisas por R$129,90"
+              width={1920}
+              height={480}
+              className="w-full h-auto object-cover group-hover:scale-[1.02] transition-transform duration-500"
+            />
+            <div className="absolute inset-0 bg-gradient-to-r from-black/10 to-transparent pointer-events-none" />
+            <div className="absolute bottom-4 right-6 sm:bottom-6 sm:right-8 z-10">
+              <span className={cn(
+                buttonVariants({ size: "lg" }),
+                "bg-white text-yellow-600 hover:bg-yellow-300 hover:text-yellow-800 font-bold px-6 sm:px-8 rounded-full shadow-2xl text-sm"
+              )}>
+                Ver ofertas
+                <ArrowRight aria-hidden="true" className="size-4" />
+              </span>
             </div>
           </div>
-        </div>
+        </Link>
       </section>
 
       {/* ── TODOS OS PRODUTOS ────────────────────────── */}
