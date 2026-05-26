@@ -309,7 +309,7 @@ function OrderSidebar({
 }
 
 /* ─── PIX screen ─────────────────────────────────────────── */
-function PixScreen({ code, orderId, base64, image }: { code: string; orderId: string; base64?: string; image?: string }) {
+function PixScreen({ code, orderId, base64, image, onNewPurchase }: { code: string; orderId: string; base64?: string; image?: string; onNewPurchase: () => void }) {
   const [copied, setCopied] = useState(false);
   const [seconds, setSeconds] = useState(900);
 
@@ -405,6 +405,22 @@ function PixScreen({ code, orderId, base64, image }: { code: string; orderId: st
       <p className="text-xs text-muted-foreground text-center">
         Você receberá um e-mail de confirmação assim que o pagamento for processado.
       </p>
+
+      <div className="flex flex-col sm:flex-row gap-3 justify-center">
+        <Link
+          href="/produtos"
+          onClick={onNewPurchase}
+          className={cn(buttonVariants({ variant: "outline", size: "lg" }), "rounded-xl font-bold")}
+        >
+          <ArrowLeft className="size-4" aria-hidden="true"/> Continuar comprando
+        </Link>
+        <button
+          onClick={onNewPurchase}
+          className={cn(buttonVariants({ variant: "ghost", size: "lg" }), "rounded-xl text-muted-foreground")}
+        >
+          Novo pedido
+        </button>
+      </div>
     </div>
   );
 }
@@ -420,11 +436,17 @@ export default function CheckoutPage() {
   const [pixData, setPixData]   = useState<{ code: string; orderId: string; base64?: string; image?: string } | null>(null);
 
   // Hidrata pixData de sessionStorage (refresh na tela do PIX não perde o QR)
+  // Se há itens no carrinho = nova compra, ignora o PIX salvo
   useEffect(() => {
     try {
+      if (items.length > 0) {
+        sessionStorage.removeItem("style-shooes-pix");
+        return;
+      }
       const saved = sessionStorage.getItem("style-shooes-pix");
       if (saved) setPixData(JSON.parse(saved));
     } catch {}
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
@@ -522,7 +544,16 @@ export default function CheckoutPage() {
     </div>
   );
 
-  if (pixData) return <PixScreen code={pixData.code} orderId={pixData.orderId} base64={pixData.base64} image={pixData.image}/>;
+  if (pixData) return <PixScreen
+    code={pixData.code}
+    orderId={pixData.orderId}
+    base64={pixData.base64}
+    image={pixData.image}
+    onNewPurchase={() => {
+      setPixData(null);
+      sessionStorage.removeItem("style-shooes-pix");
+    }}
+  />;
 
   return (
     <div className="min-h-screen bg-secondary/30">
