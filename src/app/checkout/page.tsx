@@ -10,7 +10,7 @@ import {
   Star, Users, BadgeCheck, ChevronDown,
 } from "lucide-react";
 import { useCart } from "@/context/CartContext";
-import { Button } from "@/components/ui/button";
+import { Button, buttonVariants } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Separator } from "@/components/ui/separator";
