@@ -124,11 +124,18 @@ async function chargePix({
 }) {
   const identifier = `SS${Date.now()}${Math.random().toString(36).slice(2, 6)}`;
 
+  // SigiloPay valida: amount == sum(products * qty) + shippingFee - discount
+  // Para evitar divergência de arredondamento, calculamos o amount aqui mesmo
+  const productTotal = items.reduce((s, i) => s + Number((i.price * i.quantity).toFixed(2)), 0);
+  const freight      = Number(Math.max(0, cart.freight  ?? 0).toFixed(2));
+  const discount     = Number(Math.max(0, cart.discount ?? 0).toFixed(2));
+  const amount       = Number(Math.max(0.01, productTotal + freight - discount).toFixed(2));
+
   const payload = {
     identifier,
-    amount:      Number(cart.total!.toFixed(2)),
-    shippingFee: Number((cart.freight  ?? 0).toFixed(2)),
-    discount:    Number((cart.discount ?? 0).toFixed(2)),
+    amount,
+    shippingFee: freight,
+    discount,
     client: {
       name:     `${customer.firstName} ${customer.lastName}`.trim(),
       email:    customer.email!,
@@ -136,7 +143,7 @@ async function chargePix({
       document: onlyDigits(customer.cpf),
     },
     products: items.map((i, idx) => ({
-      id:       `${i.id}${i.size ? "-" + i.size : ""}-${idx}`, // unique per cart line
+      id:       `${i.id}${i.size ? "-" + i.size : ""}-${idx}`,
       name:     i.name,
       quantity: i.quantity,
       price:    Number(i.price.toFixed(2)),
