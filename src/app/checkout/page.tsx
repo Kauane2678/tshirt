@@ -272,7 +272,7 @@ function OrderSidebar({
         {[
           { icon: ShieldCheck, color: "text-green-600", title: "Compra 100% Segura", sub: "Criptografia SSL de 256-bits" },
           { icon: RotateCcw,   color: "text-blue-600",  title: "30 dias para trocar", sub: "Devolução grátis sem burocracia" },
-          { icon: Truck,       color: "text-primary",   title: "Frete grátis acima de R$ 299", sub: "Entrega em 3–7 dias úteis" },
+          { icon: Truck,       color: "text-primary",   title: "Frete grátis acima de R$ 119,97", sub: "Entrega em 3–7 dias úteis" },
         ].map(({ icon: Icon, color, title, sub }) => (
           <div key={title} className="flex items-center gap-3">
             <Icon className={cn("size-5 flex-shrink-0", color)} aria-hidden="true"/>
@@ -439,7 +439,7 @@ export default function CheckoutPage() {
 
   // total = subtotal − combo.discount  (já vem do CartContext)
   const discount   = combo.discount;
-  const shipping   = total >= 299 ? 0 : 19.9;
+  const shipping   = total >= 119.97 ? 0 : 19.9;
   const finalTotal = total + shipping;
 
   async function fetchCep(zip: string) {

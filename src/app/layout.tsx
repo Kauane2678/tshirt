@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     default: "Style Shooes — Camisetas Tailandesas de Seleções de Futebol",
     template: "%s · Style Shooes",
   },
-  description: "Camisetas tailandesas das melhores seleções do mundo: Brasil, Argentina, França, Portugal e mais. Combo 3 por R$ 119,99. Frete grátis acima de R$ 299, 12× sem juros.",
+  description: "Camisetas tailandesas das melhores seleções do mundo: Brasil, Argentina, França, Portugal e mais. Combo 3 por R$ 119,99. Frete grátis acima de R$ 119,97, 12× sem juros.",
   keywords: ["camisa tailandesa", "camisetas tailandesas", "seleção brasileira", "camisa brasil", "camisa argentina", "camisa retrô", "futebol", "copa do mundo"],
   authors: [{ name: "Style Shooes" }],
   openGraph: {
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     locale: "pt_BR",
     siteName: "Style Shooes",
     title: "Style Shooes — Camisetas Tailandesas de Seleções",
-    description: "Camisetas tailandesas das maiores seleções do mundo. 3 por R$ 119,99. Frete grátis acima de R$ 299.",
+    description: "Camisetas tailandesas das maiores seleções do mundo. 3 por R$ 119,99. Frete grátis acima de R$ 119,97.",
     images: [{ url: "/ROUPAS/Brasil/2024 Brasil Home.jpg", width: 1200, height: 630, alt: "Style Shooes" }],
   },
   twitter: {

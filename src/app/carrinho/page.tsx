@@ -13,7 +13,7 @@ export default function CartPage() {
   const { items, removeItem, updateQuantity, total, subtotal, count, combo } = useCart();
 
   // O `total` do contexto já vem com o combo aplicado.
-  const shipping   = total >= 299 ? 0 : 19.9;
+  const shipping   = total >= 119.97 ? 0 : 19.9;
   const finalTotal = total + shipping;
 
   if (items.length === 0) {
@@ -174,7 +174,7 @@ export default function CartPage() {
               )}
               {shipping > 0 && (
                 <p className="text-xs text-muted-foreground">
-                  Falta R$&nbsp;{(299 - total).toFixed(2).replace(".", ",")} para frete grátis
+                  Falta R$&nbsp;{(119.97 - total).toFixed(2).replace(".", ",")} para frete grátis
                 </p>
               )}
             </dl>

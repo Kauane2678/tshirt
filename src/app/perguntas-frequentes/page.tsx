@@ -16,7 +16,7 @@ const faqs = [
   },
   {
     q: "Como funciona o frete grátis?",
-    a: "Pedidos acima de R$ 299,00 têm frete GRÁTIS para todo o Brasil. Abaixo disso, o frete é calculado em R$ 19,90 fixo.",
+    a: "Pedidos acima de R$ 119,97,00 têm frete GRÁTIS para todo o Brasil. Abaixo disso, o frete é calculado em R$ 19,90 fixo.",
   },
   {
     q: "Posso trocar ou devolver a camisa?",

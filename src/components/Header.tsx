@@ -25,9 +25,9 @@ const navLinks = [
 /* ─── Mini-cart drawer ───────────────────────────────────── */
 function CartDrawer({ onClose }: { onClose: () => void }) {
   const { items, removeItem, updateQuantity, total, subtotal, count, combo } = useCart();
-  const shipping = total >= 299 ? 0 : 19.9;
+  const shipping = total >= 119.97 ? 0 : 19.9;
   const finalTotal = total + shipping;
-  const toFreeShipping = Math.max(0, 299 - total);
+  const toFreeShipping = Math.max(0, 119.97 - total);
 
   if (items.length === 0) {
     return (
@@ -89,9 +89,9 @@ function CartDrawer({ onClose }: { onClose: () => void }) {
           <div className="h-1.5 rounded-full bg-border overflow-hidden">
             <div
               className="h-full rounded-full bg-green-500 transition-all duration-500"
-              style={{ width: `${Math.min(100, (total / 299) * 100)}%` }}
+              style={{ width: `${Math.min(100, (total / 119.97) * 100)}%` }}
               role="progressbar"
-              aria-valuenow={Math.round((total / 299) * 100)}
+              aria-valuenow={Math.round((total / 119.97) * 100)}
               aria-valuemin={0}
               aria-valuemax={100}
             />
@@ -256,7 +256,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-background/95 backdrop-blur-sm border-b border-border">
       {/* Top bar */}
       <div className="bg-primary text-primary-foreground text-center text-xs py-2 px-4 font-medium tracking-wide">
-        🔥 <strong className="font-bold">COMPRE JUNTO</strong> · 3 camisetas por R$&nbsp;119,99 · Frete grátis acima de R$&nbsp;299
+        🔥 <strong className="font-bold">COMPRE JUNTO</strong> · 3 camisetas por R$&nbsp;119,99 · Frete grátis acima de R$&nbsp;119,97
       </div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between h-16 gap-6">

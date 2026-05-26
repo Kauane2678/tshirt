@@ -84,7 +84,7 @@ export default function Home() {
 
             <p className="text-white/75 text-lg leading-relaxed mb-8 max-w-md animate-card" style={{ animationDelay: "200ms" }}>
               Camisas oficiais das maiores seleções do mundo.
-              <span className="text-white font-semibold"> 164 modelos</span> · Frete grátis acima de R$ 299.
+              <span className="text-white font-semibold"> 164 modelos</span> · Frete grátis acima de R$ 119,97.
             </p>
 
             <div className="flex flex-wrap gap-3 mb-10 animate-card" style={{ animationDelay: "300ms" }}>
