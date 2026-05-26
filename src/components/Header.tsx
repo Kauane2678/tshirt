@@ -25,7 +25,7 @@ const navLinks = [
 /* ─── Mini-cart drawer ───────────────────────────────────── */
 function CartDrawer({ onClose }: { onClose: () => void }) {
   const { items, removeItem, updateQuantity, total, subtotal, count, combo } = useCart();
-  const shipping = total >= 119.97 ? 0 : 19.9;
+  const shipping = total >= 0 ? 0 : 19.9;
   const finalTotal = total + shipping;
   const toFreeShipping = Math.max(0, 119.97 - total);
 
