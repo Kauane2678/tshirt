@@ -8,6 +8,7 @@ import { buttonVariants } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { cn } from "@/lib/utils";
 import { toast } from "sonner";
+import { fbq } from "@/components/MetaPixel";
 
 export default function CartPage() {
   const { items, removeItem, updateQuantity, total, subtotal, count, combo } = useCart();
@@ -190,6 +191,14 @@ export default function CartPage() {
 
             <Link
               href="/checkout"
+              onClick={() =>
+                fbq("track", "InitiateCheckout", {
+                  content_ids: items.map((i) => String(i.product.id)),
+                  num_items: count,
+                  value: finalTotal,
+                  currency: "BRL",
+                })
+              }
               className={cn(
                 buttonVariants({ size: "lg" }),
                 "w-full h-12 font-bold bg-primary hover:bg-primary/90 rounded-xl text-sm justify-center"

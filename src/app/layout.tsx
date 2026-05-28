@@ -4,9 +4,11 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import MetaPixel from "@/components/MetaPixel";
 import { CartProvider } from "@/context/CartContext";
 import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
+import { Suspense } from "react";
 
 const bebas = Bebas_Neue({
   variable: "--font-bebas",
@@ -67,6 +69,7 @@ export default function RootLayout({
             <Footer />
             {/* <WhatsAppButton /> */}
             <Toaster position="top-right" richColors />
+            <Suspense><MetaPixel /></Suspense>
           </CartProvider>
         </TooltipProvider>
       </body>

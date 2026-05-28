@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useParams } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
@@ -15,6 +15,7 @@ import { Separator } from "@/components/ui/separator";
 import ProductCard from "@/components/ProductCard";
 import { toast } from "sonner";
 import { cn } from "@/lib/utils";
+import { fbq } from "@/components/MetaPixel";
 
 export default function ProductPage() {
   const { id } = useParams();
@@ -45,6 +46,17 @@ export default function ProductPage() {
     .filter((p, i, arr) => arr.findIndex(x => x.id === p.id) === i)
     .slice(0, 4);
   const liked = has(product.id);
+  useEffect(() => {
+    fbq("track", "ViewContent", {
+      content_ids:  [String(product.id)],
+      content_name: product.name,
+      content_type: "product",
+      value:        product.price,
+      currency:     "BRL",
+    });
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [product.id]);
+
   const discount = product.originalPrice
     ? Math.round(((product.originalPrice - product.price) / product.originalPrice) * 100)
     : null;
@@ -55,6 +67,13 @@ export default function ProductPage() {
     setAdded(true);
     toast.success("Adicionado ao carrinho!", {
       description: `${product!.name} — Tamanho ${selectedSize}`,
+    });
+    fbq("track", "AddToCart", {
+      content_ids:   [String(product!.id)],
+      content_name:  product!.name,
+      content_type:  "product",
+      value:         product!.price,
+      currency:      "BRL",
     });
     setTimeout(() => setAdded(false), 2500);
   }

@@ -14,6 +14,7 @@ import { Button, buttonVariants } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { cn } from "@/lib/utils";
 import { toast } from "sonner";
+import { fbq } from "@/components/MetaPixel";
 
 const UPSELL_PRICE = 40.00;
 const UPSELL_LABEL = "OFERTA EXCLUSIVA · R$ 40";
@@ -136,9 +137,18 @@ function UpsellCard({
 function ConfirmationContent() {
   const params = useSearchParams();
   const router = useRouter();
-  const { addItem } = useCart();
+  const { addItem, total } = useCart();
   const orderId = params.get("id");
   const method = params.get("method");
+
+  useEffect(() => {
+    if (!orderId) return;
+    fbq("track", "Purchase", {
+      value: total,
+      currency: "BRL",
+    });
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [orderId]);
 
   const methodLabel =
     method === "pix"          ? "PIX" :
